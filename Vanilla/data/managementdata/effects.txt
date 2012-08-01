@@ -1,0 +1,10 @@
+None
+Blood
+Small Explosion
+Medium Explosion
+Large Explosion
+Smoke
+Dirt
+Spark
+Energy Hit
+Plasma Hit

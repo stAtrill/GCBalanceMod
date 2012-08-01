@@ -1,0 +1,181 @@
+[TECHLEVEL 1 ENTITIES]
+cc_marine
+cc_scoutvehicle
+cc_lighttank
+cc_rocketvehicle
+cc_lightaerodyne
+wc_crusader
+wc_scoutvehicle
+wc_lighttank
+wc_beamplatform
+wc_lightaerodyne
+px_basic
+px_scouttank
+px_lighttank
+px_plasmag
+px_lightaerodyne
+[TECHLEVEL 1 SPECIAL EQUIPMENT]
+SE_PERCEPTION
+SE_HEALTH1
+SE_HEALTH2
+SE_HEALTH3
+SE_HEALTH4
+SE_HEALTH5
+SE_HEALTH6
+SE_REPAIRALL
+SE_MINEFIELD1
+SE_MINEFIELD2
+SE_WEAPONJAMMER1
+SE_MUCK1
+SE_SPEED
+SE_ACCURACY
+SE_ACCURACY2
+SE_VIEWRANGE1
+SE_VIEWRANGE2
+SE_VIEWRANGE4
+SE_VIEWRANGE3
+SE_VISION1
+SE_AFTERBURNER
+SE_ROCKET1
+SE_ROCKET2
+SE_ROCKET3
+SE_SENTRY_AUTOCANNON
+SE_SENTRY_ROCKET
+SE_COUNTERMEASURE2
+SE_COUNTERMEASURE1
+[TECHLEVEL 1 WEAPONS]
+HE Mini Bombs
+RMM-9 Infantry Mortar
+HE Grenade Launcher
+SMAUG-12 Flamethrower
+GyroJet Ammunition
+140mm RAW
+Electro Field
+Plasma Sunburst
+Plasma Moonburst
+HE Rounds
+Advanced HE Round
+Jannice Warhead
+LongRange Discharge
+Hellfire Missiles
+Fragmentation Bomb
+Improved AIM Missile
+cc_SentryRocket
+cc_SentryAutocannon
+SPECIAL_PX_BASIC_B
+SPECIAL_PX_PLASMA_A
+SPECIAL_PX_SCOUTTANK_A
+SPECIAL_PX_LIGHTTANK_A
+SPECIAL_PX_SNIPER_A
+SPECIAL_PX_SNIPER_B
+SPECIAL_PX_MEDIUMTANK_A
+SPECIAL_PX_PYRODYNE_B
+SPECIAL_PX_ARTILLERYVEHICLE_B
+SPECIAL_PX_LIGHTAERODYNE_A
+[TECHLEVEL 2 ENTITIES]
+cc_jaeger
+cc_mediumtank
+wc_templar
+wc_mediumtank
+px_sniper
+px_mediumtank
+[TECHLEVEL 2 SPECIAL EQUIPMENT]
+SE_BOOSTERSTATION
+[TECHLEVEL 3 ENTITIES]
+cc_heavytank
+wc_heavytank
+px_heavytank
+[TECHLEVEL 3 SPECIAL EQUIPMENT]
+SE_RADARSTATION1
+SE_RADARSTATION2
+SE_RADARSTATION3
+SE_REPAIRSTATION
+[TECHLEVEL 3 WEAPONS]
+Electro Dagger
+Depleted Uranium Rounds
+CG-89mm Antitank Rocket
+Focused Energy Pulse
+SPECIAL_PX_BASIC_A
+SPECIAL_PX_SCOUTTANK_B
+[TECHLEVEL 4 ENTITIES]
+cc_aavehicle
+wc_aavehicle
+cc_fighteraerodyne
+cc_attackaerodyne
+wc_fighteraerodyne
+wc_attackaerodyne
+px_aavehicle
+px_fighteraerodyne
+px_attackaerodyne
+[TECHLEVEL 4 SPECIAL EQUIPMENT]
+SE_SENTRY_ANTIAIR
+SE_HEALAIR
+[TECHLEVEL 5 ENTITIES]
+cc_artilleryvehicle
+wc_artilleryvehicle
+wc_dronecarrier
+cc_bomberaerodyne
+px_artilleryvehicle
+px_pyrodyne
+[TECHLEVEL 5 SPECIAL EQUIPMENT]
+SE_PERSONALCLOAKER1
+SE_PERSONALCLOAKER2
+SE_PERSONALCLOAKER3
+SE_TRIGDEMO1
+SE_TRIGDEMO2
+SE_DEPLOYABLEDEFENDER_UNIT
+SE_PERSONALDEFENDERGUN1
+SE_PERSONALDEFENDERGUN2
+SE_DEPLOYABLECLOAKER
+SE_PROTECTORSHIELD1
+SE_PROTECTORSHIELD2
+SE_DAMAGEZONE1
+[TECHLEVEL 5 WEAPONS]
+Anti-Air Warheads
+cc_SentryAntiAir
+[TECHLEVEL 6 WEAPONS]
+MicroNuke Warhead
+TankBuster Discharge
+Tactical Nuclear Shells
+ICM-DP TseTse Rocket
+HE Firefly Rocket
+Hellfire Rocket Launcher
+ICM Rocket Warhead
+SCU-Focus Prism
+SCU-Frequency Prism
+Improved Plasma Missile
+Solar Torpedo
+Fragmentation Torpedo
+Hammerhead Warhead
+Tactical Nuclear Bomb
+Advanced Spider Drone
+Tactical Nuclear Shells
+SPECIAL_PX_PLASMA_B
+SPECIAL_PX_ARTILLERYVEHICLE_A
+SPECIAL_PX_PYRODYNE_A
+SPECIAL_PX_ATTACKAERODYNE_B
+SPECIAL_PX_ATTACKAERODYNE_A
+SPECIAL_PX_LIGHTAERODYNE_B
+[TECHLEVEL 7 ENTITIES]
+px_powerarmor
+cc_powerarmor
+wc_powerarmor
+cc_ioncannon
+wc_faithful
+px_swarm
+[TECHLEVEL 7 SPECIAL EQUIPMENT]
+SE_ENTRENCH1
+SE_ENTRENCH2
+SE_ENTRENCH3
+SE_DAMAGEZONE2
+[TECHLEVEL 7 WEAPONS]
+SPECIAL_PX_POWERARMOR_A
+SPECIAL_PX_POWERARMOR_B
+SPECIAL_WC_FAITHFUL_A
+SPECIAL_WC_FAITHFUL_B
+SPECIAL_WC_POWERARMOR_A
+SPECIAL_WC_POWERARMOR_B
+SPECIAL_CC_IONCANNON_A
+SPECIAL_CC_IONCANNON_B
+SPECIAL_CC_POWERARMOR_A
+SPECIAL_CC_POWERARMOR_B

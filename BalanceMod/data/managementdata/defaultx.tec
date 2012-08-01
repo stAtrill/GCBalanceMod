@@ -1,0 +1,347 @@
+[TECHLEVEL 1 ENTITIES]
+px_basic
+wc_crusader
+cc_marine
+wc_lighttank
+px_scouttank
+[TECHLEVEL 1 SPECIAL EQUIPMENT]
+SE_DAMAGEZONE1
+SE_DAMAGEZONE2
+SE_HEALTH5
+SE_HEALTH6
+SE_HEALAIR
+SE_REPAIRALL
+SE_PERSONALCLOAKER3
+SE_RADARSTATION3
+SE_PERSONALDEFENDERGUN1
+SE_PERSONALDEFENDERGUN2
+SE_ROCKET1
+SE_ROCKET2
+SE_ROCKET3
+SE_PERCEPTION
+SE_ACCURACY2
+SE_VISION1
+SE_ENTRENCH1
+SE_ENTRENCH2
+SE_ENTRENCH3
+SE_BOOSTERSTATION
+SE_WEAPONJAMMER1
+SE_MUCK1
+[TECHLEVEL 1 WEAPONS]
+SPECIAL_PX_POWERARMOR_A
+SPECIAL_PX_POWERARMOR_B
+SPECIAL_PX_BASIC_A
+SPECIAL_PX_SNIPER_A
+SPECIAL_PX_SNIPER_B
+SPECIAL_PX_PLASMA_A
+SPECIAL_PX_PLASMA_B
+SPECIAL_PX_SCOUTTANK_A
+SPECIAL_PX_SCOUTTANK_B
+SPECIAL_PX_PYRODYNE_B
+SPECIAL_PX_ARTILLERYVEHICLE_A
+SPECIAL_PX_ARTILLERYVEHICLE_B
+SPECIAL_PX_PYRODYNE_A
+SPECIAL_PX_LIGHTTANK_A
+SPECIAL_PX_MEDIUMTANK_A
+SPECIAL_PX_LIGHTAERODYNE_A
+SPECIAL_PX_ATTACKAERODYNE_B
+SPECIAL_PX_ATTACKAERODYNE_A
+SPECIAL_PX_LIGHTAERODYNE_B
+SPECIAL_PX_BASIC_B
+[TECHLEVEL 2 SPECIAL EQUIPMENT]
+SE_HEALTH1
+SE_HEALTH3
+[TECHLEVEL 2 WEAPONS]
+RMM-9 Infantry Mortar
+[TECHLEVEL 3 ENTITIES]
+cc_lighttank
+px_lighttank
+[TECHLEVEL 3 SPECIAL EQUIPMENT]
+SE_HEALTH2
+SE_HEALTH4
+[TECHLEVEL 3 WEAPONS]
+Electro Dagger
+Electro Field
+HE Grenade Launcher
+Depleted Uranium Rounds
+SMAUG-12 Flamethrower
+Focused Energy Pulse
+[TECHLEVEL 4 ENTITIES]
+wc_scoutvehicle
+[TECHLEVEL 5 ENTITIES]
+wc_mediumtank
+cc_mediumtank
+px_mediumtank
+[TECHLEVEL 5 SPECIAL EQUIPMENT]
+SE_REPAIRSTATION
+SE_ACCURACY
+SE_RADARSTATION1
+SE_RADARSTATION2
+SE_VIEWRANGE1
+SE_VIEWRANGE2
+SE_VIEWRANGE4
+[TECHLEVEL 5 WEAPONS]
+Plasma Sunburst
+Plasma Moonburst
+HE Rounds
+Advanced HE Round
+CG-89mm Antitank Rocket
+wc_SentryAutocannon
+wc_SentryRocket
+wc_SentryAntiAir
+[TECHLEVEL 6 ENTITIES]
+cc_scoutvehicle
+[TECHLEVEL 6 SPECIAL EQUIPMENT]
+SE_SENTRY_AUTOCANNON
+SE_SENTRY_ROCKET
+SE_SENTRY_ANTIAIR
+[TECHLEVEL 6 WEAPONS]
+cc_SentryAntiAir
+cc_SentryRocket
+cc_SentryAutocannon
+[TECHLEVEL 7 ENTITIES]
+cc_jaeger
+wc_templar
+px_sniper
+[TECHLEVEL 7 SPECIAL EQUIPMENT]
+SE_PERSONALCLOAKER1
+SE_PERSONALCLOAKER2
+SE_COUNTERMEASURE2
+SE_SPEED
+SE_VIEWRANGE3
+[TECHLEVEL 7 WEAPONS]
+MicroNuke Warhead
+GyroJet Ammunition
+140mm RAW
+Anti-Air Warheads
+[TECHLEVEL 8 ENTITIES]
+wc_lightaerodyne
+wc_aavehicle
+px_aavehicle
+px_heavytank
+px_plasmag
+[TECHLEVEL 8 SPECIAL EQUIPMENT]
+SE_MINEFIELD1
+SE_MINEFIELD2
+SE_RADARSTATION1
+[TECHLEVEL 9 ENTITIES]
+cc_artilleryvehicle
+wc_artilleryvehicle
+px_artilleryvehicle
+[TECHLEVEL 9 SPECIAL EQUIPMENT]
+SE_VISION2
+[TECHLEVEL 9 WEAPONS]
+Jannice Warhead
+TankBuster Discharge
+LongRange Discharge
+Tactical Nuclear Shells
+[TECHLEVEL 10 ENTITIES]
+cc_fighteraerodyne
+cc_lightaerodyne
+wc_heavytank
+cc_attackaerodyne
+px_lightaerodyne
+px_fighteraerodyne
+px_attackaerodyne
+[TECHLEVEL 10 SPECIAL EQUIPMENT]
+SE_COUNTERMEASURE1
+SE_TRIGDEMO1
+SE_TRIGDEMO2
+SE_DEPLOYABLEDEFENDER_UNIT
+SE_DEPLOYABLECLOAKER
+SE_AFTERBURNER
+[TECHLEVEL 10 WEAPONS]
+HE Mini Bombs
+ICM-DP TseTse Rocket
+HE Firefly Rocket
+Improved AIM Missile
+FURY 642 - Plasma Warhead
+Hellfire Rocket Launcher
+Hugh ICM-V1 Missile Pod
+Hugh V99 Missile Warhead
+ICM Rocket Warhead
+[TECHLEVEL 11 ENTITIES]
+wc_beamplatform
+cc_aavehicle
+px_pyrodyne
+[TECHLEVEL 11 WEAPONS]
+SCU-Focus Prism
+SCU-Frequency Prism
+[TECHLEVEL 12 ENTITIES]
+cc_rocketvehicle
+wc_fighteraerodyne
+cc_heavytank
+wc_attackaerodyne
+[TECHLEVEL 12 SPECIAL EQUIPMENT]
+SE_PROTECTORSHIELD1
+[TECHLEVEL 12 WEAPONS]
+Improved Plasma Missile
+Solar Torpedo
+Fragmentation Torpedo
+Hellfire Missiles
+Hammerhead Warhead
+[TECHLEVEL 13 ENTITIES]
+cc_bomberaerodyne
+wc_dronecarrier
+[TECHLEVEL 13 WEAPONS]
+Tactical Nuclear Bomb
+Fragmentation Bomb
+Advanced Spider Drone
+[TECHLEVEL 15 SPECIAL EQUIPMENT]
+SE_PROTECTORSHIELD2
+[TECHLEVEL 15 WEAPONS]
+Tactical Nuclear Shells
+A-7 Nuclear Warhead
+[TECHLEVEL 16 ENTITIES]
+cc_powerarmor
+cc_ioncannon
+wc_powerarmor
+wc_faithful
+px_powerarmor
+px_swarm
+[TECHLEVEL 16 WEAPONS]
+SPECIAL_WC_FAITHFUL_A
+SPECIAL_WC_FAITHFUL_B
+SPECIAL_WC_POWERARMOR_A
+SPECIAL_WC_POWERARMOR_B
+SPECIAL_CC_IONCANNON_A
+SPECIAL_CC_IONCANNON_B
+SPECIAL_CC_POWERARMOR_A
+SPECIAL_CC_POWERARMOR_B
+[TECHLEVEL 999 ENTITIES]
+wc_truck
+wc_truck2
+building_wc_powerstation
+building_cc_powerstation_core
+building_wc_Research_center
+building_wc_smallgunturret
+Building_cc_landinghouse
+building_cc_hangar
+Building_cc_AerodyneRepair
+building_cc_bunkergun
+alarm
+building_cc_ammodepot
+building_wc_ammo_depot
+building_cc_ammodepot_construct
+building_cc_ammodepot_damaged
+building_cc_ammodepot_damaged_02
+building_cc_ammodepot_damaged_03
+wc_SentryRocket
+cc_SentryRocket
+building_cc_garage
+building_wc_barrier_medium
+Building_CC_IndustrialBuilding
+building_cc_barrack
+building_wc_barrack
+building_cc_barrack_underconstruct
+building_cc_barrack_damaged
+building_cc_barrack_damaged_02
+building_cc_barrack_damaged_03
+building_cc_bunker
+building_wc_bunker
+Building_cc_cammonet_jungle
+cc_beatbug_vehicle
+building_cc_pillboxtower
+building_cc_pillbox
+building_cc_cistern
+Building_cc_Command_Center
+building_wc_Command_Center
+Building_cc_biodome
+Building_cc_Radar_Station
+building_wc_radar_main
+building_wc_wall
+building_wc_wall_corner
+building_wc_wall_corner_reverse
+cc_bomberaerodyne_old
+Building_cc_container
+building_wc_container
+Building_cc_container_2
+building_wc_container_food
+building_cc_jumpstation_tower
+building_cc_satellite
+building_cc_control_tower
+building_cc_wallgun
+building_wc_reactorcooler
+cc_RadarStation1
+cc_RadarStation2
+wc_RadarStation1
+wc_RadarStation2
+cc_SentryAntiAir
+building_cc_docking_bay
+building_cc_Droperhangar
+cc_truck
+cc_truck_aid
+cc_Enrica_Hayes
+Building_cc_Equip_depot
+building_wc_Equip_Depot
+Building_cc_Equip_storage
+Building_wc_Factory_02
+Building_wc_Factory_03
+building_cc_radar
+building_cc_RadarDish
+Building_cc_Field_generator
+Building_wc_Field_generator
+Building_wc_Field_repair_tent
+Building_cc_Field_repair
+cc_truck2
+cc_Fork_truck
+cc_Fork_truck2
+cc_apc
+building_cc_fueltank
+building_cc_fueltank_hole
+building_cc_artillery
+building_wc_radar_dish
+Building_wc_Hoover_repaircenter
+building_wc_hoverRepair
+building_wc_missiletower
+building_wc_antiairgun
+wc_SentryAntiAir
+building_wc_barrier_light
+building_wc_howitzer
+building_wc_terraform_main
+Building_cc_Medicalfacility
+building_wc_medical_facility
+building_cc_medical_barrack
+building_cc_Medical_treatment_center
+Building_cc_Mining_Facility
+Building_wc_Mining_facility
+Lava_Sound_Dummy
+building_cc_Outpost
+building_wc_Outpost
+building_cc_Outpost_Number
+building_wc_powergenerator
+building_wc_terraforming_facility_cammo
+building_wc_power_unit
+building_cc_powerstation_main
+building_cc_powerstation_smaller
+Building_wc_Industrial_building
+Building_cc_industry_Bigcyl
+Building_cc_industry_mainbuilding
+building_wc_pillbox
+building_cc_Research_center
+cc_SentryAutocannon
+building_wc_wallgun
+CC_firetruck
+building_cc_silo_mini_set
+building_cc_shieldgenerator
+Building_cc_hangar_light
+building_cc_dropship
+building_cc_wall
+building_cc_wall_corner
+Building_cc_lowfense_100x60m
+Building_cc_Terraforming_Central
+Building_cc_Terraforming_Facility
+Building_cc_Terraforming_facility_extension
+building_wc_terraform_pipecooler
+wc_SentryAutocannon
+building_wc_bunkerangled
+Building_cc_factory_01
+building_cc_vehiclebay
+building_cc_elwerk
+building_wc_temple
+Building_wc_GroundFan_1
+Building_wc_GroundFan_still
+Building_wc_SmallPowerGen
+Building_wc_SubRoad
+building_cc_autocannon
+

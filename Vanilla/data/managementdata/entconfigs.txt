@@ -1,0 +1,2201 @@
+// id
+// entity
+// loc name-id
+// loc description-id
+// weapon
+// armor
+// firepower value
+// armor value
+// speed value
+// range value
+
+[ENTCFG]
+APC
+cc_commandapc
+0
+1
+Assault Rifle Mk. 1
+Marine Balanced
+40
+45
+40
+50
+
+[ENTCFG]
+MARINE_B
+cc_marine
+0
+1
+Assault Rifle Mk. 1
+Marine Balanced
+20
+30
+5
+60
+
+[ENTCFG]
+MARINE_D
+cc_marine
+2
+3
+Assault Rifle Mk. 1
+Marine Defensive
+20
+35
+4
+60
+
+[ENTCFG]
+MARINE_O
+cc_marine
+4
+5
+Assault Rifle Mk. 2
+Marine Offensive
+25
+30
+4
+60
+
+[ENTCFG]
+MARINE_S
+cc_marine
+6
+7
+Assault Rifle Mk. 3
+Marine Speed
+15
+30
+7
+60
+
+
+[ENTCFG]
+JAEGER_B
+cc_jaeger
+8
+9
+Gauss Rifle Mk. 1
+Jaeger Balanced
+40
+10
+10
+80
+
+[ENTCFG]
+JAEGER_D
+cc_jaeger
+10
+11
+Gauss Rifle Mk. 1
+Jaeger Defensive
+40
+15
+8
+80
+
+[ENTCFG]
+JAEGER_O
+cc_jaeger
+12
+13
+Gauss Rifle Mk. 2
+Jaeger Offensive
+50
+10
+8
+80
+
+[ENTCFG]
+JAEGER_S
+cc_jaeger
+14
+15
+Gauss Rifle Mk. 3
+Jaeger Speed
+35
+10
+12
+80
+
+[ENTCFG]
+SCOUTTERRADYNE_B
+cc_scoutvehicle
+16
+17
+Machinegun Mk. 1
+Scout Balanced
+30
+40
+60
+85
+
+[ENTCFG]
+SCOUTTERRADYNE_D
+cc_scoutvehicle
+18
+19
+Machinegun Mk. 1
+Scout Defensive
+30
+45
+55
+85
+
+[ENTCFG]
+SCOUTTERRADYNE_O
+cc_scoutvehicle
+20
+21
+Machinegun Mk. 2
+Scout Offensive
+35
+40
+55
+85
+
+[ENTCFG]
+SCOUTTERRADYNE_S
+cc_scoutvehicle
+22
+23
+Machinegun Mk. 3
+Scout Speed
+25
+40
+65
+85
+
+[ENTCFG]
+LIGHTTERRADYNE_B
+cc_lighttank
+24
+25
+Autocannon Mk. 1
+Light Balanced
+40
+45
+50
+60
+
+[ENTCFG]
+LIGHTTERRADYNE_D
+cc_lighttank
+26
+27
+Autocannon Mk. 1
+Light Defensive
+40
+50
+45
+60
+
+[ENTCFG]
+LIGHTTERRADYNE_O
+cc_lighttank
+28
+29
+Autocannon Mk. 2
+Light Offensive
+45
+45
+45
+60
+
+[ENTCFG]
+LIGHTTERRADYNE_S
+cc_lighttank
+30
+31
+Autocannon Mk. 3
+Light Speed
+35
+45
+55
+60
+
+[ENTCFG]
+MEDIUMTERRADYNE_B
+cc_mediumtank
+32
+33
+Large Caliber Gun Mk. 1
+Medium Balanced
+75
+60
+45
+60
+
+[ENTCFG]
+MEDIUMTERRADYNE_D
+cc_mediumtank
+34
+35
+Large Caliber Gun Mk. 1
+Medium Defensive
+75
+65
+40
+60
+
+[ENTCFG]
+MEDIUMTERRADYNE_O
+cc_mediumtank
+36
+37
+Large Caliber Gun Mk. 2
+Medium Offensive
+80
+60
+40
+60
+
+[ENTCFG]
+MEDIUMTERRADYNE_S
+cc_mediumtank
+38
+39
+Large Caliber Gun Mk. 3
+Medium Speed
+70
+60
+50
+60
+
+[ENTCFG]
+HEAVYTERRADYNE_B
+cc_heavytank
+40
+41
+Twin Large Caliber Gun Mk. 1
+Heavy Balanced
+65
+85
+30
+55
+
+[ENTCFG]
+HEAVYTERRADYNE_D
+cc_heavytank
+42
+43
+Twin Large Caliber Gun Mk. 1
+Heavy Defensive
+65
+90
+25
+55
+
+[ENTCFG]
+HEAVYTERRADYNE_O
+cc_heavytank
+44
+45
+Twin Large Caliber Gun Mk. 2
+Heavy Offensive
+70
+85
+25
+55
+
+[ENTCFG]
+HEAVYTERRADYNE_S
+cc_heavytank
+46
+47
+Twin Large Caliber Gun Mk. 3
+Heavy Speed
+60
+85
+35
+55
+
+[ENTCFG]
+AATERRADYNE_B
+cc_aavehicle
+48
+49
+Air Defense Cannon Mk. 1
+AA Balanced
+40
+45
+40
+70
+
+[ENTCFG]
+AATERRADYNE_D
+cc_aavehicle
+50
+51
+Air Defense Cannon Mk. 1
+AA Defensive
+40
+50
+35
+70
+
+[ENTCFG]
+AATERRADYNE_O
+cc_aavehicle
+52
+53
+Air Defense Cannon Mk. 2
+AA Offensive
+45
+45
+35
+70
+
+[ENTCFG]
+AATERRADYNE_S
+cc_aavehicle
+54
+55
+Air Defense Cannon Mk. 3
+AA Speed
+35
+45
+45
+70
+
+[ENTCFG]
+ARTILLERYTERRADYNE_B
+cc_artilleryvehicle
+56
+57
+155mm Howitzer Mk. 1
+Artillery Balanced
+80
+45
+30
+50
+
+[ENTCFG]
+ARTILLERYTERRADYNE_D
+cc_artilleryvehicle
+58
+59
+155mm Howitzer Mk. 1
+Artillery Defensive
+80
+50
+25
+50
+
+[ENTCFG]
+ARTILLERYTERRADYNE_O
+cc_artilleryvehicle
+60
+61
+155mm Howitzer Mk. 2
+Artillery Offensive
+85
+45
+25
+50
+
+[ENTCFG]
+ARTILLERYTERRADYNE_S
+cc_artilleryvehicle
+62
+63
+155mm Howitzer Mk. 3
+Artillery Speed
+75
+45
+35
+50
+
+[ENTCFG]
+ROCKETTERRADYNE_B
+cc_rocketvehicle
+64
+65
+ADATS Missile Mk. 1
+Rocket Balanced
+65
+45
+40
+60
+
+[ENTCFG]
+ROCKETTERRADYNE_D
+cc_rocketvehicle
+66
+67
+ADATS Missile Mk. 1
+Rocket Defensive
+65
+50
+35
+60
+
+[ENTCFG]
+ROCKETTERRADYNE_O
+cc_rocketvehicle
+68
+69
+ADATS Missile Mk. 2
+Rocket Offensive
+70
+45
+35
+60
+
+[ENTCFG]
+ROCKETTERRADYNE_S
+cc_rocketvehicle
+70
+71
+ADATS Missile Mk. 3
+Rocket Speed
+60
+45
+45
+60
+
+[ENTCFG]
+LIGHTAERODYNE_B
+cc_lightaerodyne
+72
+73
+Chain Gun Mk. 1
+Lightaero Balanced
+30
+45
+80
+85
+
+[ENTCFG]
+LIGHTAERODYNE_D
+cc_lightaerodyne
+74
+75
+Chain Gun Mk. 1
+Lightaero Defensive
+30
+50
+75
+85
+
+[ENTCFG]
+LIGHTAERODYNE_O
+cc_lightaerodyne
+76
+77
+Chain Gun Mk. 2
+Lightaero Offensive
+35
+45
+75
+85
+
+[ENTCFG]
+LIGHTAERODYNE_S
+cc_lightaerodyne
+78
+79
+Chain Gun Mk. 3
+Lightaero Speed
+25
+45
+85
+85
+
+[ENTCFG]
+FIGHTERAERODYNE_B
+cc_fighteraerodyne
+80
+81
+AIM Missile Mk. 1
+Fighteraero Balanced
+55
+45
+85
+65
+
+[ENTCFG]
+FIGHTERAERODYNE_D
+cc_fighteraerodyne
+82
+83
+AIM Missile Mk. 1
+Fighteraero Defensive
+55
+50
+80
+65
+
+[ENTCFG]
+FIGHTERAERODYNE_O
+cc_fighteraerodyne
+84
+85
+AIM Missile Mk. 2
+Fighteraero Offensive
+60
+45
+80
+65
+
+[ENTCFG]
+FIGHTERAERODYNE_S
+cc_fighteraerodyne
+86
+87
+AIM Missile Mk. 3
+Fighteraero Speed
+50
+45
+90
+65
+
+[ENTCFG]
+ATTACKAERODYNE_B
+cc_attackaerodyne
+88
+89
+HEAT Rocket Mk. 1
+Attackaero Balanced
+65
+45
+60
+65
+
+[ENTCFG]
+ATTACKAERODYNE_D
+cc_attackaerodyne
+90
+91
+HEAT Rocket Mk. 1
+Attackaero Defensive
+65
+50
+55
+65
+
+[ENTCFG]
+ATTACKAERODYNE_O
+cc_attackaerodyne
+92
+93
+HEAT Rocket Mk. 2
+Attackaero Offensive
+70
+45
+55
+65
+
+[ENTCFG]
+ATTACKAERODYNE_S
+cc_attackaerodyne
+94
+95
+HEAT Rocket Mk. 3
+Attackaero Speed
+60
+45
+65
+65
+
+[ENTCFG]
+BOMBERAERODYNE_B
+cc_bomberaerodyne
+96
+97
+High-Explosive Bomb Mk. 1
+Bomberaero Balanced
+90
+45
+50
+50
+
+[ENTCFG]
+BOMBERAERODYNE_D
+cc_bomberaerodyne
+98
+99
+High-Explosive Bomb Mk. 1
+Bomberaero Defensive
+90
+50
+45
+50
+
+[ENTCFG]
+BOMBERAERODYNE_O
+cc_bomberaerodyne
+100
+101
+High-Explosive Bomb Mk. 2
+Bomberaero Offensive
+95
+45
+45
+50
+
+[ENTCFG]
+BOMBERAERODYNE_S
+cc_bomberaerodyne
+102
+103
+High-Explosive Bomb Mk. 3
+Bomberaero Speed
+85
+45
+55
+50
+
+/////////////////////////////
+// ORDER CONFIGS
+/////////////////////////////
+[ENTCFG]
+CRUSADER_B
+wc_crusader
+104
+105
+Storm Carbine Mk. 1
+Crusader Balanced
+20
+30
+5
+60
+
+[ENTCFG]
+CRUSADER_D
+wc_crusader
+106
+107
+Storm Carbine Mk. 1
+Crusader Defensive
+20
+35
+4
+60
+
+[ENTCFG]
+CRUSADER_O
+wc_crusader
+108
+109
+Storm Carbine Mk. 2
+Crusader Offensive
+25
+30
+4
+60
+
+[ENTCFG]
+CRUSADER_S
+wc_crusader
+110
+111
+Storm Carbine Mk. 3
+Crusader Speed
+15
+30
+7
+60
+
+[ENTCFG]
+TEMPLAR_B
+wc_templar
+112
+113
+A-T Torpedo Mk. 1
+Templar Balanced
+60
+10
+10
+60
+
+[ENTCFG]
+TEMPLAR_D
+wc_templar
+114
+115
+A-T Torpedo Mk. 1
+Templar Defensive
+60
+15
+8
+60
+
+[ENTCFG]
+TEMPLAR_O
+wc_templar
+116
+117
+A-T Torpedo Mk. 2
+Templar Offensive
+65
+10
+8
+60
+
+[ENTCFG]
+TEMPLAR_S
+wc_templar
+118
+119
+A-T Torpedo Mk. 3
+Templar Speed
+55
+10
+12
+60
+
+[ENTCFG]
+SCOUTHOVERDYNE_B
+wc_scoutvehicle
+120
+121
+Pulse Laser Mk. 1
+Order Scout Balanced
+30
+40
+70
+80
+
+[ENTCFG]
+SCOUTHOVERDYNE_D
+wc_scoutvehicle
+122
+123
+Pulse Laser Mk. 1
+Order Scout Defensive
+30
+45
+65
+80
+
+[ENTCFG]
+SCOUTHOVERDYNE_O
+wc_scoutvehicle
+124
+125
+Pulse Laser Mk. 2
+Order Scout Offensive
+35
+40
+65
+80
+
+[ENTCFG]
+SCOUTHOVERDYNE_S
+wc_scoutvehicle
+126
+127
+Pulse Laser Mk. 3
+Order Scout Speed
+25
+40
+75
+80
+
+[ENTCFG]
+LIGHTHOVERDYNE_B
+wc_lighttank
+128
+129
+Electro Cannon Mk. 1
+Order Light Balanced
+40
+45
+55
+60
+
+[ENTCFG]
+LIGHTHOVERDYNE_D
+wc_lighttank
+130
+131
+Electro Cannon Mk. 1
+Order Light Defensive
+40
+50
+50
+60
+
+[ENTCFG]
+LIGHTHOVERDYNE_O
+wc_lighttank
+132
+133
+Electro Cannon Mk. 2
+Order Light Offensive
+45
+45
+50
+60
+
+[ENTCFG]
+LIGHTHOVERDYNE_S
+wc_lighttank
+134
+135
+Electro Cannon Mk. 3
+Order Light Speed
+35
+45
+60
+60
+
+[ENTCFG]
+MEDIUMHOVERDYNE_B
+wc_mediumtank
+136
+137
+Plasma Cannon Mk. 1
+Order Medium Balanced
+75
+60
+50
+60
+
+[ENTCFG]
+MEDIUMHOVERDYNE_D
+wc_mediumtank
+138
+139
+Plasma Cannon Mk. 1
+Order Medium Defensive
+75
+65
+45
+60
+
+[ENTCFG]
+MEDIUMHOVERDYNE_O
+wc_mediumtank
+140
+141
+Plasma Cannon Mk. 2
+Order Medium Offensive
+80
+60
+45
+60
+
+[ENTCFG]
+MEDIUMHOVERDYNE_S
+wc_mediumtank
+142
+143
+Plasma Cannon Mk. 3
+Order Medium Speed
+70
+60
+55
+60
+
+[ENTCFG]
+HEAVYHOVERDYNE_B
+wc_heavytank
+144
+145
+Heavy Plasma Cannon Mk. 1
+Order Heavy Balanced
+65
+85
+40
+55
+
+[ENTCFG]
+HEAVYHOVERDYNE_D
+wc_heavytank
+146
+147
+Heavy Plasma Cannon Mk. 1
+Order Heavy Defensive
+65
+90
+35
+55
+
+[ENTCFG]
+HEAVYHOVERDYNE_O
+wc_heavytank
+148
+149
+Heavy Plasma Cannon Mk. 2
+Order Heavy Offensive
+70
+85
+35
+55
+
+[ENTCFG]
+HEAVYHOVERDYNE_S
+wc_heavytank
+150
+151
+Heavy Plasma Cannon Mk. 3
+Order Heavy Speed
+60
+85
+45
+55
+
+[ENTCFG]
+AAHOVERDYNE_B
+wc_aavehicle
+152
+153
+Lightning Cannon Mk. 1
+Order AA Balanced
+40
+45
+45
+70
+
+[ENTCFG]
+AAHOVERDYNE_D
+wc_aavehicle
+154
+155
+Lightning Cannon Mk. 1
+Order AA Defensive
+40
+50
+40
+70
+
+[ENTCFG]
+AAHOVERDYNE_O
+wc_aavehicle
+156
+157
+Lightning Cannon Mk. 2
+Order AA Offensive
+45
+45
+40
+70
+
+[ENTCFG]
+AAHOVERDYNE_S
+wc_aavehicle
+158
+159
+Lightning Cannon Mk. 3
+Order AA Speed
+35
+45
+50
+70
+
+[ENTCFG]
+ARTILLERYHOVERDYNE_B
+wc_artilleryvehicle
+160
+161
+Proton Particle Launcher Mk. 1
+Order Artillery Balanced
+80
+45
+30
+50
+
+[ENTCFG]
+ARTILLERYHOVERDYNE_D
+wc_artilleryvehicle
+162
+163
+Proton Particle Launcher Mk. 1
+Order Artillery Defensive
+80
+50
+25
+50
+
+[ENTCFG]
+ARTILLERYHOVERDYNE_O
+wc_artilleryvehicle
+164
+165
+Proton Particle Launcher Mk. 2
+Order Artillery Offensive
+85
+45
+25
+50
+
+[ENTCFG]
+ARTILLERYHOVERDYNE_S
+wc_artilleryvehicle
+166
+167
+Proton Particle Launcher Mk. 3
+Order Artillery Speed
+75
+45
+35
+50
+
+[ENTCFG]
+BEAMHOVERDYNE_B
+wc_beamplatform
+168
+169
+Purifier Beam Mk. 1
+Order Beam Balanced
+80
+45
+50
+70
+
+[ENTCFG]
+BEAMHOVERDYNE_D
+wc_beamplatform
+170
+171
+Purifier Beam Mk. 1
+Order Beam Defensive
+80
+50
+45
+70
+
+[ENTCFG]
+BEAMHOVERDYNE_O
+wc_beamplatform
+172
+173
+Purifier Beam Mk. 2
+Order Beam Offensive
+85
+45
+45
+70
+
+[ENTCFG]
+BEAMHOVERDYNE_S
+wc_beamplatform
+174
+175
+Purifier Beam Mk. 3
+Order Beam Speed
+75
+45
+55
+70
+
+[ENTCFG]
+DRONEHOVERDYNE_B
+wc_dronecarrier
+176
+177
+GHE Drone Mk. 1
+Order Drone Balanced
+60
+50
+50
+60
+
+[ENTCFG]
+DRONEHOVERDYNE_D
+wc_dronecarrier
+178
+179
+GHE Drone Mk. 1
+Order Drone Defensive
+60
+55
+45
+60
+
+[ENTCFG]
+DRONEHOVERDYNE_O
+wc_dronecarrier
+180
+181
+GHE Drone Mk. 2
+Order Drone Offensive
+65
+50
+45
+60
+
+[ENTCFG]
+DRONEHOVERDYNE_S
+wc_dronecarrier
+182
+183
+GHE Drone Mk. 3
+Order Drone Speed
+55
+50
+55
+60
+
+[ENTCFG]
+WCLIGHTAERODYNE_B
+wc_lightaerodyne
+184
+185
+Scatter Laser Mk. 1
+Order Lightaero Balanced
+30
+45
+80
+85
+
+[ENTCFG]
+WCLIGHTAERODYNE_D
+wc_lightaerodyne
+186
+187
+Scatter Laser Mk. 1
+Order Lightaero Defensive
+30
+50
+75
+85
+
+[ENTCFG]
+WCLIGHTAERODYNE_O
+wc_lightaerodyne
+188
+189
+Scatter Laser Mk. 2
+Order Lightaero Offensive
+35
+45
+75
+85
+
+[ENTCFG]
+WCLIGHTAERODYNE_S
+wc_lightaerodyne
+190
+191
+Scatter Laser Mk. 3
+Order Lightaero Speed
+25
+45
+85
+85
+
+[ENTCFG]
+WCATTACKAERODYNE_B
+wc_attackaerodyne
+192
+193
+SCREAM Torpedo Mk. 1
+Order Attackaero Balanced
+65
+45
+60
+65
+
+[ENTCFG]
+WCATTACKAERODYNE_D
+wc_attackaerodyne
+194
+195
+SCREAM Torpedo Mk. 1
+Order Attackaero Defensive
+65
+50
+55
+65
+
+[ENTCFG]
+WCATTACKAERODYNE_O
+wc_attackaerodyne
+196
+197
+SCREAM Torpedo Mk. 2
+Order Attackaero Offensive
+70
+45
+55
+65
+
+[ENTCFG]
+WCATTACKAERODYNE_S
+wc_attackaerodyne
+198
+199
+SCREAM Torpedo Mk. 3
+Order Attackaero Speed
+60
+45
+65
+65
+
+[ENTCFG]
+WCFIGHTERAERODYNE_B
+wc_fighteraerodyne
+200
+201
+Air-To-Air Plasma Missile Mk. 1
+Order Fighteraero Balanced
+55
+45
+85
+65
+
+[ENTCFG]
+WCFIGHTERAERODYNE_D
+wc_fighteraerodyne
+202
+203
+Air-To-Air Plasma Missile Mk. 1
+Order Fighteraero Defensive
+55
+50
+80
+65
+
+[ENTCFG]
+WCFIGHTERAERODYNE_O
+wc_fighteraerodyne
+204
+205
+Air-To-Air Plasma Missile Mk. 2
+Order Fighteraero Offensive
+60
+45
+80
+65
+
+[ENTCFG]
+WCFIGHTERAERODYNE_S
+wc_fighteraerodyne
+206
+207
+Air-To-Air Plasma Missile Mk. 3
+Order Fighteraero Speed
+50
+45
+90
+65
+
+/////////////////////////////
+// PHOENIX CONFIGS
+/////////////////////////////
+[ENTCFG]
+PX_BASIC_B
+px_basic
+208
+209
+basic_px_basic
+Basic Balanced
+20
+30
+5
+60
+
+[ENTCFG]
+PX_BASIC_D
+px_basic
+210
+211
+basic_px_basic
+Marine Defensive
+20
+35
+4
+60
+
+[ENTCFG]
+PX_BASIC_O
+px_basic
+212
+213
+basic_px_basic_O
+Marine Offensive
+25
+30
+4
+60
+
+[ENTCFG]
+PX_BASIC_S
+px_basic
+214
+215
+basic_px_basic_S
+Basic Speed
+15
+30
+7
+60
+
+[ENTCFG]
+PX_PLASMAG_B
+px_plasmag
+216
+217
+basic_px_plasmag
+Plasmag Balanced
+70
+35
+5
+60
+
+[ENTCFG]
+PX_PLASMAG_D
+px_plasmag
+218
+219
+basic_px_plasmag
+Plasmag Defensive
+70
+40
+4
+60
+
+[ENTCFG]
+PX_PLASMAG_O
+px_plasmag
+220
+221
+basic_px_plasmag_O
+Plasmag Offensive
+80
+35
+4
+60
+
+[ENTCFG]
+PX_PLASMAG_S
+px_plasmag
+222
+223
+basic_px_plasmag_S
+Plasmag Speed
+60
+35
+7
+60
+
+[ENTCFG]
+PX_POWERARMOR_B
+px_powerarmor
+224
+225
+basic_px_powerarmor
+Phoenix Powerarmor Balanced
+60
+75
+4
+40
+
+[ENTCFG]
+PX_POWERARMOR_D
+px_powerarmor
+226
+227
+basic_px_powerarmor
+Phoenix Powerarmor Defensive
+60
+80
+2
+40
+
+[ENTCFG]
+PX_POWERARMOR_O
+px_powerarmor
+228
+229
+basic_px_powerarmor_O
+Phoenix Powerarmor Offensive
+70
+75
+2
+40
+
+[ENTCFG]
+PX_POWERARMOR_S
+px_powerarmor
+230
+231
+basic_px_powerarmor_S
+Phoenix Powerarmor Speed
+60
+75
+6
+40
+
+[ENTCFG]
+PX_SNIPER_B
+px_sniper
+232
+233
+basic_px_sniper
+Sniper Balanced
+40
+5
+10
+90
+
+[ENTCFG]
+PX_SNIPER_D
+px_sniper
+234
+235
+basic_px_sniper
+Sniper Defensive
+40
+8
+8
+90
+
+[ENTCFG]
+PX_SNIPER_O
+px_sniper
+236
+237
+basic_px_sniper_O
+Sniper Offensive
+45
+5
+8
+90
+
+[ENTCFG]
+PX_SNIPER_S
+px_sniper
+238
+239
+basic_px_sniper_S
+Sniper Speed
+35
+5
+15
+90
+
+[ENTCFG]
+PX_SCOUTTANK_B
+px_scouttank
+240
+241
+basic_px_scouttank
+Phoenix Scout Tank Balanced
+30
+40
+60
+85
+
+[ENTCFG]
+PX_SCOUTTANK_D
+px_scouttank
+242
+243
+basic_px_scouttank
+Phoenix Scout Tank Defensive
+30
+45
+55
+85
+
+[ENTCFG]
+PX_SCOUTTANK_O
+px_scouttank
+244
+245
+basic_px_scouttank_O
+Phoenix Scout Tank Offensive
+35
+40
+55
+85
+
+[ENTCFG]
+PX_SCOUTTANK_S
+px_scouttank
+246
+247
+basic_px_scouttank_S
+Phoenix Scout Tank Speed
+25
+40
+65
+85
+
+[ENTCFG]
+PX_LIGHTTANK_B
+px_lighttank
+248
+249
+basic_px_lighttank
+Phoenix Light Tank Balanced
+40
+45
+50
+60
+
+[ENTCFG]
+PX_LIGHTTANK_D
+px_lighttank
+250
+251
+basic_px_lighttank
+Phoenix Light Tank Defensive
+40
+50
+45
+60
+
+[ENTCFG]
+PX_LIGHTTANK_O
+px_lighttank
+252
+253
+basic_px_lighttank_O
+Phoenix Light Tank Offensive
+45
+45
+45
+60
+
+[ENTCFG]
+PX_LIGHTTANK_S
+px_lighttank
+254
+255
+basic_px_lighttank_S
+Phoenix Light Tank Speed
+35
+45
+55
+60
+
+[ENTCFG]
+PX_MEDIUMTANK_B
+px_mediumtank
+256
+257
+basic_px_mediumtank
+Phoenix Medium Tank Balanced
+75
+60
+45
+60
+
+[ENTCFG]
+PX_MEDIUMTANK_D
+px_mediumtank
+258
+259
+basic_px_mediumtank
+Phoenix Medium Tank Defensive
+75
+65
+40
+60
+
+[ENTCFG]
+PX_MEDIUMTANK_O
+px_mediumtank
+260
+261
+basic_px_mediumtank_O
+Phoenix Medium Tank Offensive
+80
+60
+40
+60
+
+[ENTCFG]
+PX_MEDIUMTANK_S
+px_mediumtank
+262
+263
+basic_px_mediumtank_S
+Phoenix Medium Tank Speed
+70
+60
+50
+60
+
+[ENTCFG]
+PX_HEAVYTANK_B
+px_heavytank
+264
+265
+basic_px_heavytank
+Phoenix Heavy Tank Balanced
+65
+85
+30
+55
+
+[ENTCFG]
+PX_HEAVYTANK_D
+px_heavytank
+266
+267
+basic_px_heavytank
+Phoenix Heavy Tank Defensive
+65
+90
+25
+55
+
+[ENTCFG]
+PX_HEAVYTANK_O
+px_heavytank
+268
+269
+basic_px_heavytank_O
+Phoenix Heavy Tank Offensive
+70
+85
+25
+55
+
+[ENTCFG]
+PX_HEAVYTANK_S
+px_heavytank
+270
+271
+basic_px_heavytank_S
+Phoenix Heavy Tank Speed
+60
+85
+35
+55
+
+[ENTCFG]
+PX_AAVEHICLE_B
+px_aavehicle
+272
+273
+basic_px_aavehicle
+Phoenix AA Balanced
+40
+45
+40
+70
+
+[ENTCFG]
+PX_AAVEHICLE_D
+px_aavehicle
+274
+275
+basic_px_aavehicle
+Phoenix AA Defensive
+40
+50
+35
+70
+
+[ENTCFG]
+PX_AAVEHICLE_O
+px_aavehicle
+276
+277
+basic_px_aavehicle_O
+Phoenix AA Offensive
+45
+45
+35
+70
+
+[ENTCFG]
+PX_AAVEHICLE_S
+px_aavehicle
+278
+279
+basic_px_aavehicle_S
+Phoenix AA Speed
+35
+45
+45
+70
+
+[ENTCFG]
+PX_ARTILLERYVEHICLE_B
+px_artilleryvehicle
+280
+281
+basic_px_artilleryvehicle
+Phoenix Artillery Balanced
+80
+45
+30
+50
+
+[ENTCFG]
+PX_ARTILLERYVEHICLE_D
+px_artilleryvehicle
+282
+283
+basic_px_artilleryvehicle
+Phoenix Artillery Defensive
+80
+50
+25
+50
+
+[ENTCFG]
+PX_ARTILLERYVEHICLE_O
+px_artilleryvehicle
+284
+285
+basic_px_artilleryvehicle_O
+Phoenix Artillery Offensive
+85
+45
+25
+50
+
+[ENTCFG]
+PX_ARTILLERYVEHICLE_S
+px_artilleryvehicle
+286
+287
+basic_px_artilleryvehicle_S
+Phoenix Artillery Speed
+75
+45
+35
+50
+
+[ENTCFG]
+PX_PYRODYNE_B
+px_pyrodyne
+288
+289
+basic_px_pyrodyne
+Pyro Balanced
+90
+65
+40
+5
+
+[ENTCFG]
+PX_PYRODYNE_D
+px_pyrodyne
+290
+291
+basic_px_pyrodyne
+Pyro Defensive
+90
+70
+30
+5
+
+[ENTCFG]
+PX_PYRODYNE_O
+px_pyrodyne
+292
+293
+basic_px_pyrodyne_O
+Pyro Offensive
+95
+65
+35
+5
+
+[ENTCFG]
+PX_PYRODYNE_S
+px_pyrodyne
+294
+295
+basic_px_pyrodyne_S
+Pyro Speed
+80
+65
+45
+5
+
+[ENTCFG]
+PX_LIGHTAERODYNE_B
+px_lightaerodyne
+296
+297
+basic_px_lightaerodyne
+Phoenix Light Aerodyne Balanced
+30
+45
+80
+85
+
+[ENTCFG]
+PX_LIGHTAERODYNE_D
+px_lightaerodyne
+298
+299
+basic_px_lightaerodyne
+Phoenix Light Aerodyne Defensive
+30
+50
+75
+85
+
+[ENTCFG]
+PX_LIGHTAERODYNE_O
+px_lightaerodyne
+300
+301
+basic_px_lightaerodyne_O
+Phoenix Light Aerodyne Offensive
+35
+45
+75
+85
+
+[ENTCFG]
+PX_LIGHTAERODYNE_S
+px_lightaerodyne
+302
+303
+basic_px_lightaerodyne_S
+Phoenix Light Aerodyne Speed
+25
+45
+85
+85
+
+[ENTCFG]
+PX_FIGHTERAERODYNE_B
+px_fighteraerodyne
+304
+305
+basic_px_fighteraerodyne
+Phoenix FighterAerodyne Balanced
+55
+45
+85
+65
+
+[ENTCFG]
+PX_FIGHTERAERODYNE_D
+px_fighteraerodyne
+306
+307
+basic_px_fighteraerodyne
+Phoenix FighterAerodyne Defensive
+55
+50
+80
+65
+
+[ENTCFG]
+PX_FIGHTERAERODYNE_O
+px_fighteraerodyne
+308
+309
+basic_px_fighteraerodyne_O
+Phoenix FighterAerodyne Offensive
+60
+45
+80
+65
+
+[ENTCFG]
+PX_FIGHTERAERODYNE_S
+px_fighteraerodyne
+310
+311
+basic_px_fighteraerodyne_S
+Phoenix FighterAerodyne Speed
+50
+45
+90
+65
+
+[ENTCFG]
+PX_ATTACKAERODYNE_B
+px_attackaerodyne
+312
+313
+basic_px_attackaerodyne
+Phoenix AttackAerodyne Balanced
+65
+45
+60
+65
+
+[ENTCFG]
+PX_ATTACKAERODYNE_D
+px_attackaerodyne
+314
+315
+basic_px_attackaerodyne
+Phoenix AttackAerodyne Defensive
+65
+50
+55
+65
+
+[ENTCFG]
+PX_ATTACKAERODYNE_O
+px_attackaerodyne
+316
+317
+basic_px_attackaerodyne_O
+Phoenix AttackAerodyne Offensive
+70
+45
+55
+65
+
+[ENTCFG]
+PX_ATTACKAERODYNE_S
+px_attackaerodyne
+318
+319
+basic_px_attackaerodyne_S
+Phoenix AttackAerodyne Speed
+60
+45
+65
+65
+
+[ENTCFG]
+PX_SWARM_B
+px_swarm
+320
+321
+basic_px_swarm
+Swarm Balanced
+55
+40
+75
+65
+
+[ENTCFG]
+PX_SWARM_D
+px_swarm
+322
+323
+basic_px_swarm
+Swarm Defensive
+55
+45
+70
+65
+
+[ENTCFG]
+PX_SWARM_O
+px_swarm
+324
+325
+basic_px_swarm_O
+Swarm Offensive
+60
+40
+70
+65
+
+[ENTCFG]
+PX_SWARM_S
+px_swarm
+326
+327
+basic_px_swarm_S
+Swarm Speed
+50
+40
+80
+65
+
+[ENTCFG]
+POWERARMOR_B
+cc_powerarmor
+328
+329
+basic_cc_powerarmor
+Powerarmor Balanced
+60
+75
+4
+40
+
+[ENTCFG]
+POWERARMOR_D
+cc_powerarmor
+330
+331
+basic_cc_powerarmor
+Powerarmor Defensive
+60
+80
+2
+40
+
+[ENTCFG]
+POWERARMOR_O
+cc_powerarmor
+332
+333
+basic_cc_powerarmor_O
+Powerarmor Offensive
+70
+75
+2
+40
+
+[ENTCFG]
+POWERARMOR_S
+cc_powerarmor
+334
+335
+basic_cc_powerarmor_S
+Powerarmor Speed
+60
+75
+6
+40
+
+[ENTCFG]
+IONCANNON_B
+cc_ioncannon
+336
+337
+basic_cc_ioncannon
+Ioncannon Balanced
+50
+45
+40
+70
+
+[ENTCFG]
+IONCANNON_D
+cc_ioncannon
+338
+339
+basic_cc_ioncannon
+Ioncannon Defensive
+50
+50
+35
+70
+
+[ENTCFG]
+IONCANNON_O
+cc_ioncannon
+340
+341
+basic_cc_ioncannon_O
+Ioncannon Offensive
+55
+45
+35
+70
+
+[ENTCFG]
+IONCANNON_S
+cc_ioncannon
+342
+343
+basic_cc_ioncannon_S
+Ioncannon Speed
+45
+45
+45
+70
+
+[ENTCFG]
+POWER_B
+wc_powerarmor
+328
+329
+basic_wc_powerarmor
+Power Balanced
+60
+75
+4
+40
+
+[ENTCFG]
+POWER_D
+wc_powerarmor
+330
+331
+basic_wc_powerarmor
+Power Defensive
+60
+80
+2
+40
+
+[ENTCFG]
+POWER_O
+wc_powerarmor
+332
+333
+basic_wc_powerarmor_O
+Power Offensive
+70
+75
+2
+40
+
+[ENTCFG]
+POWER_S
+wc_powerarmor
+334
+335
+basic_wc_powerarmor_S
+Power Speed
+60
+75
+6
+40
+
+[ENTCFG]
+FAITHFUL_B
+wc_faithful
+352
+353
+basic_wc_faithful
+Faithful Balanced
+15
+10
+5
+20
+
+[ENTCFG]
+FAITHFUL_D
+wc_faithful
+354
+355
+basic_wc_faithful
+Faithful Defensive
+15
+15
+4
+20
+
+[ENTCFG]
+FAITHFUL_O
+wc_faithful
+356
+357
+basic_wc_faithful_O
+Faithful Offensive
+20
+10
+4
+20
+
+[ENTCFG]
+FAITHFUL_S
+wc_faithful
+358
+359
+basic_wc_faithful_S
+Faithful Speed
+12
+10
+8
+20
+
+[ENTCFG]
+APC
+px_commandapc
+360
+361
+px_commandapc
+Marine Balanced
+40
+45
+40
+50

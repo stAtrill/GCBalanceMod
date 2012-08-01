@@ -1,0 +1,110 @@
+[TECHLEVEL 1 ENTITIES]
+cc_marine
+cc_scoutvehicle
+cc_lighttank
+cc_rocketvehicle
+cc_lightaerodyne
+wc_crusader
+wc_scoutvehicle
+wc_lighttank
+wc_beamplatform
+wc_lightaerodyne
+[TECHLEVEL 1 SPECIAL EQUIPMENT]
+SE_PERCEPTION
+SE_HEALTH1
+SE_HEALTH2
+SE_HEALTH3
+SE_HEALTH4
+SE_MINEFIELD1
+SE_MINEFIELD2
+SE_SPEED
+SE_ACCURACY
+SE_VIEWRANGE1
+SE_VIEWRANGE2
+SE_VIEWRANGE4
+SE_VIEWRANGE3
+SE_AFTERBURNER
+SE_SENTRY_AUTOCANNON
+SE_SENTRY_ROCKET
+SE_COUNTERMEASURE2
+SE_COUNTERMEASURE1
+[TECHLEVEL 1 WEAPONS]
+HE Mini Bombs
+RMM-9 Infantry Mortar
+HE Grenade Launcher
+SMAUG-12 Flamethrower
+GyroJet Ammunition
+140mm RAW
+Electro Field
+Plasma Sunburst
+Plasma Moonburst
+HE Rounds
+Advanced HE Round
+Jannice Warhead
+LongRange Discharge
+Hellfire Missiles
+Fragmentation Bomb
+Improved AIM Missile
+cc_SentryRocket
+cc_SentryAutocannon
+[TECHLEVEL 2 ENTITIES]
+cc_jaeger
+cc_mediumtank
+wc_templar
+wc_mediumtank
+[TECHLEVEL 3 ENTITIES]
+cc_heavytank
+wc_heavytank
+[TECHLEVEL 3 SPECIAL EQUIPMENT]
+SE_RADARSTATION1
+SE_RADARSTATION2
+SE_REPAIRSTATION
+[TECHLEVEL 3 WEAPONS]
+Electro Dagger
+Depleted Uranium Rounds
+CG-89mm Antitank Rocket
+Focused Energy Pulse
+[TECHLEVEL 4 ENTITIES]
+cc_aavehicle
+wc_aavehicle
+cc_fighteraerodyne
+cc_attackaerodyne
+wc_fighteraerodyne
+wc_attackaerodyne
+[TECHLEVEL 4 SPECIAL EQUIPMENT]
+SE_SENTRY_ANTIAIR
+[TECHLEVEL 5 ENTITIES]
+cc_artilleryvehicle
+wc_artilleryvehicle
+wc_dronecarrier
+cc_bomberaerodyne
+[TECHLEVEL 5 SPECIAL EQUIPMENT]
+SE_PERSONALCLOAKER1
+SE_PERSONALCLOAKER2
+SE_TRIGDEMO1
+SE_TRIGDEMO2
+SE_DEPLOYABLEDEFENDER_UNIT
+SE_DEPLOYABLECLOAKER
+SE_PROTECTORSHIELD1
+SE_PROTECTORSHIELD2
+[TECHLEVEL 5 WEAPONS]
+Anti-Air Warheads
+cc_SentryAntiAir
+[TECHLEVEL 6 WEAPONS]
+MicroNuke Warhead
+TankBuster Discharge
+Tactical Nuclear Shells
+ICM-DP TseTse Rocket
+HE Firefly Rocket
+Hellfire Rocket Launcher
+ICM Rocket Warhead
+SCU-Focus Prism
+SCU-Frequency Prism
+Improved Plasma Missile
+Solar Torpedo
+Fragmentation Torpedo
+Hammerhead Warhead
+Tactical Nuclear Bomb
+Advanced Spider Drone
+Tactical Nuclear Shells
+

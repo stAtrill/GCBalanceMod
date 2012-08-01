@@ -1,0 +1,49 @@
+SDFmanager
+README
+January 26, 2001
+
+[ To read this file, select Edit/Word Wrap from the program menu above ]
+
+TABLE OF CONTENTS
+
+[1] SETUP
+[2] HOW TO USE
+  [2.1] ADD FILES
+  [2.2] DELETE FILES
+  [2.3] CREATE SDF
+[3] THE RESULT
+
+
+[1] SETUP
+====================================
+This tool has to be run from the GC data directory [..gc\data\] (it is mandatory, else the sdf's won't be created properly).
+
+
+[2] HOW TO USE
+====================================
+The program interface is a list all the files going to be packed into the SDF(s) and some command buttons.
+
+  [2.1] ADD FILES
+  To add files to a sdf, you can either press Add Files and then select a group of files (choosing directories isn't possible).
+  NOTE: This could also be done with drag-drop to the list. This way you can add directories directly, without having to add the files in them.
+  
+  [2.2] DELETE FILES
+  Delete files can be used to remove files from the list.
+  
+  [2.3] CREATE SDF
+  When pressing Create SDF, you name the sdf(s), which is then created (which can take a couple of minutes).
+
+
+[3] THE RESULT
+====================================
+Depending on content you will get one or two sdf's, which can be used as a mod for GC. Normal data will be packed into <name>0.sdf and streaming data into <name>1.sdf.
+Example: MyMod0.sdf - all files containing graphics and text
+         MyMod1.sdf - sound, music and videos
+
+
+Copyright 2000, 2001 Massive Entertainment AB.
+All Rights Reserved.
+
+http://www.groundcontrol1.com
+http://www.sierrastudios.com
+http://www.massive.se
