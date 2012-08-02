@@ -9,8 +9,8 @@ Cray
 
 OND
 
-Remove shields from beams 
+Remove shields from beams(if shield nerf is not enough)
 Increase drone damage
-Increase templar special weapon damage
+Increase templar special weapon damage - done
 Add extra moonburst charge for OND Heavies
 Decrease duration of Light Vortex
