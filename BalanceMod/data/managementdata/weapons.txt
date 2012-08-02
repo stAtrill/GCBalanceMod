@@ -11578,7 +11578,7 @@ MoverType
 Homing
 
 BrakeFactor
-200.000000
+230.000000
 
 StartSpeed
 170.000000
@@ -11587,7 +11587,7 @@ MaxSpeed
 280.000000
 
 Acceleration
-2300.000000
+250.000000
 
 TrackDelay
 0.100000
