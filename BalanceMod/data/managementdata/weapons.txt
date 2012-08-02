@@ -21963,10 +21963,10 @@ ReloadTime
 0.200000
 
 BurstCount
-1
+4
 
 BurstDelay
-1.500000
+0.600000
 
 BlastRadius
 0.000000
