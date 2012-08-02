@@ -6297,7 +6297,7 @@ Range
 350.000000
 
 Damage
-350.000000
+500.000000
 
 DamageMultiplier
 10.000000
