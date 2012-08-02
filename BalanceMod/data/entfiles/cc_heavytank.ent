@@ -1,0 +1,187 @@
+//cc_heavytank.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, SUPPORT, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+TANK
+
+// Squad button
+Button
+unitico_tank_4.tga
+
+// Max number of units in squad
+MaxUnits
+2
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+Description
+185
+
+BranchSortOrderValue
+3
+
+//the name of the entity
+Name
+133
+
+//score awarded in mp per unit in squad
+//default is 1 per unit
+MultiplayerScorePerEntity
+7
+
+//type of mover(foot, air, vehicle)
+MoverType
+vehicle
+
+//Create an aimer
+UseAimer
+
+AimerXDegLimits
+60
+350
+
+//main model animation
+Model
+cc_heavytank
+
+//child animation
+ChildOffset
+//offset of the child (X, Y, Z)
+0.0
+0.0
+-1.52
+
+
+
+//------------------------------------------------
+
+
+
+//Barrel Model
+BarrelOffset
+//offset of the barrel child (x,y,z)
+0.0
+3.55
+1.66
+
+
+
+//Number of firing offsets
+FireOffsetCount
+2
+
+//fire offset (X, Y, Z)
+FireOffset
+0.85
+0.0
+6.2
+
+//fire offset (X, Y, Z)
+//FireOffset1
+-0.85
+0.0
+6.2
+
+
+
+
+//------------------------------------------------
+
+//other stuff
+Radius
+6.0
+Height
+4.7
+PivotHeight
+0.0
+Acceleration
+87.0
+Friction
+80.0
+MaxSpeed
+15.0
+//Radianer/sekund    6.28 = 1 varv/sekund
+TurnSpeed
+0.9
+HeadTurnSpeed
+0.75
+0.75
+SlopeBorder
+1
+ViewRange
+250.0
+ProjectileProtection
+180
+Power
+4500
+// Detection
+Stealth
+0
+Perception
+0
+//turnoffset was 5
+TurnOffset
+12
+//WRECK
+WreckModel
+cc_heavytank_wreck
+WreckModel
+cc_heavytank_wreck2
+
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover1-2, snd_engine_vehicle1-3, snd_engine_air1-2,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_engine_vehicle3
+
+
+//sound bank
+//valid banks are:
+//CRAYVEN_ANTIAIRVEHICLE
+//CRAYVEN_ARTILLERYVEHICLE
+//CRAYVEN_ATTACKAERODYNE
+//CRAYVEN_BOMBERAERODYNE
+//CRAYVEN_COMMANDAPC
+//CRAYVEN_ENGINEERTRUCKER
+//CRAYVEN_FIGHTERAERODYNE
+//CRAYVEN_HEAVYTANK
+//CRAYVEN_JAEGER
+//CRAYVEN_LIGHTTANK
+//CRAYVEN_MARINE
+//CRAYVEN_MEDIUMTANK
+//CRAYVEN_ROCKETVEHICLE
+//CRAYVEN_SCOUTAERODYNE
+//CRAYVEN_SCOUTVEHICLE
+//OND_ANTIAIRVEHICLE
+//OND_ARTILLERYVEHICLE
+//OND_ATTACKAERODYNE
+//OND_BEAMPLATFORM
+//OND_COMMANDAPC
+//OND_CRUSADER
+//OND_DRONECARRIER
+//OND_ENGINEERTRUCKER
+//OND_FIGHTERAERODYNE
+//OND_HEAVYHOVERDYNE
+//OND_LIGHTHOVERDYNE
+//OND_MEDIUMHOVERDYNE
+//OND_SCOUTAERODYNE
+//OND_SCOUTVEHICLE
+//OND_TEMPLAR
+SoundBank
+CRAYVEN_HEAVYTANK
+

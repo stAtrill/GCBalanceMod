@@ -1,0 +1,171 @@
+//wc_artilleryvehicle.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+WRATH
+
+//Branch (INFANTRY, SUPPORT, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+SUPPORT
+
+// Squad button
+Button
+unitico_bal_4_ond.tga
+
+// Max number of units in squad
+MaxUnits
+1
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+3
+
+Description
+201
+
+BranchSortOrderValue
+1
+
+//the name of the entity
+Name
+152
+
+//score awarded in mp per unit in squad
+//default is 1 per unit
+MultiplayerScorePerEntity
+14
+
+//type of mover(foot, hover, air, vehicle)
+MoverType
+hover
+
+//Create an aimer
+UseAimer
+
+AimerXDegLimits
+85
+0
+
+//main model animation
+Model
+wc_artilleryvehicle
+
+//child animation
+ChildOffset
+//offset of the child (X, Y, Z)
+0.0
+1.97
+-2.29
+
+//Barrel Model
+BarrelOffset
+//offset of the barrel child (x,y,z)
+0.0
+1.35
+-0.11
+
+
+//fire offset (X, Y, Z)
+FireOffset
+0.6
+-0.5
+1.0
+
+//other stuff
+Radius
+4.5
+Height
+4.0
+PivotHeight
+4.0
+Acceleration
+27.0
+Friction
+15.0
+MaxSpeed
+21.0
+TurnSpeed
+//Radianer/sekund    6.28 = 1 varv/sekund
+2.2
+HeadTurnSpeed
+0.75
+0.75
+SlopeBorder
+1
+ViewRange
+250.0
+ProjectileProtection
+80
+Power
+3000
+FlyingHeight
+4.0
+// Detection
+Stealth
+0
+Perception
+0
+//WRECK
+WreckModel
+wc_artilleryvehicle_wreck
+WreckModel
+wc_artilleryvehicle_wreck2
+
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover1-2, snd_engine_vehicle1-2, snd_engine_air1-2,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_engine_hover1
+
+
+//sound bank
+//valid banks are:
+//CRAYVEN_ANTIAIRVEHICLE
+//CRAYVEN_ARTILLERYVEHICLE
+//CRAYVEN_ATTACKAERODYNE
+//CRAYVEN_BOMBERAERODYNE
+//CRAYVEN_COMMANDAPC
+//CRAYVEN_ENGINEERTRUCKER
+//CRAYVEN_FIGHTERAERODYNE
+//CRAYVEN_HEAVYTANK
+//CRAYVEN_JAEGER
+//CRAYVEN_LIGHTTANK
+//CRAYVEN_MARINE
+//CRAYVEN_MEDIUMTANK
+//CRAYVEN_ROCKETVEHICLE
+//CRAYVEN_SCOUTAERODYNE
+//CRAYVEN_SCOUTVEHICLE
+//OND_ANTIAIRVEHICLE
+//OND_ARTILLERYVEHICLE
+//OND_ATTACKAERODYNE
+//OND_BEAMPLATFORM
+//OND_COMMANDAPC
+//OND_CRUSADER
+//OND_DRONECARRIER
+//OND_ENGINEERTRUCKER
+//OND_FIGHTERAERODYNE
+//OND_HEAVYHOVERDYNE
+//OND_LIGHTHOVERDYNE
+//OND_MEDIUMHOVERDYNE
+//OND_SCOUTAERODYNE
+//OND_SCOUTVEHICLE
+//OND_TEMPLAR
+SoundBank
+OND_ARTILLERYVEHICLE
+
+
+//minimap importance (0 - 2, 0 is default)
+MinimapImportance
+1
+
+
+
