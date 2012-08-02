@@ -11400,10 +11400,10 @@ Accuracy
 100
 
 Range
-200.000000
+300.000000
 
 Damage
-120.000000
+180.000000
 
 DamageMultiplier
 1.500000
@@ -11415,7 +11415,7 @@ BurstCount
 6
 
 BurstDelay
-1.500000
+0.800000
 
 BlastRadius
 0.000000
@@ -11499,10 +11499,10 @@ Accuracy
 100
 
 Range
-400.000000
+440.000000
 
 Damage
-400.000000
+480.000000
 
 DamageMultiplier
 1.000000
@@ -11593,7 +11593,7 @@ TrackDelay
 0.100000
 
 BlastRadius
-25.000000
+35.000000
 
 BEGIN REPTYPE
 RepType
@@ -11613,10 +11613,10 @@ Accuracy
 100
 
 Range
-250.000000
+340.000000
 
 Damage
-250.000000
+400.000000
 
 DamageMultiplier
 1.000000
@@ -11628,7 +11628,7 @@ BurstCount
 1
 
 BurstDelay
-1.500000
+1.800000
 
 BlastRadius
 0.000000
@@ -11695,13 +11695,13 @@ StartSpeed
 200.000000
 
 MaxSpeed
-250.000000
+350.000000
 
 Acceleration
-200.000000
+250.000000
 
 BlastRadius
-25.000000
+35.000000
 
 SpinOffset
 0.000000
