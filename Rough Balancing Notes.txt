@@ -1,0 +1,16 @@
+All
+
+Increase the amount of armour gained by using defensive setting
+Slightly increase the damage buff by setting units to offensive
+
+
+Cray
+
+
+OND
+
+Remove shields from beams 
+Increase drone damage
+Increase templar special weapon damage
+Add extra moonburst charge for OND Heavies
+Decrease duration of Light Vortex
