@@ -1,0 +1,60 @@
+//TOP ROW BORDERS
+PICTURE 31 33 Mngm_T_L_Corner.tga
+PICTURE 63 33 Mngm_Smiss_Multiplayer2.tga
+PICTURE 319 50 Mngm_R_Of_Header.tga
+PICTURE 461 50 Mngm_U_R_Line.tga
+PICTURE 589 50 Mngm_U_R_Corner.tga
+PICTURE 589 66 Mngm_U_R_Vert_Line.tga
+PICTURE 39 65 Mngm_U_L_Lines.tga
+PICTURE 39 193 Mngm_M_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 238 417 Mngm_Innerframe_Horiz_Free_128.tga
+PICTURE 462 418 Mngm_U_R_Line.tga
+PICTURE 590 415 Mngm_L_R_Corner.tga
+PICTURE 590 287 Mngm_L_R_Vert_Line.tga
+
+//BUTT BORDERS
+PICTURE 39 290 Mngm_L_L_Vert_Line.tga
+PICTURE 31 418 Mngm_L_L_Corner.tga
+//Small pic just right of butt butts
+PICTURE 168 418 Mngm_EndOfLowButts.tga
+PICTURE 326 417 Mngm_Innerframe_Horiz_Free_128.tga
+
+
+//BORDER EFFECT
+//PICTURE 374 424 Mngm_Dropsbord_LEffect1.tga
+PICTURE 502 398 Mngm_Dropsbord_LEffect2.tga
+//PICTURE 585 270 Mngm_Dropsbord_LEffect3.tga
+
+PICTURE 493 425 Mngm_Lborder3.tga
+PICTURE 416 418 Mngm_U_R_Line.tga
+
+//Thin Corner
+PICTURE 46 415 Mngm_L_L_Small_Corner.tga
+PICTURE 43 287 Mngm_L_R_Vert_Line.tga
+PICTURE 62 418 Mngm_L_L_Horiz_Line.tga
+
+
+//Balancemod Enabled!
+PICTURE 168 33 Balancemodenabled.tga
+
+//OPTION BUTTS +38
+
+
+
+BUTTON ID_MPLAN KEY_RETURN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 MOUSE_CLICK LANJOINGAME 48 75 Mngm_LocalAreaNetworkGame.tga 0.4 48 75 Mngm_LocalAreaNetworkGame_Eff.tga
+BUTTON ID_MPSKIRMISH MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 48 108 Mngm_InternetStandardGame.tga 0.4 48 108 Mngm_InternetStandardGame_Eff.tga
+BUTTON ID_MPDROPIN MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 48 141 Mngm_InternetDropinGame.tga 0.4 48 141 Mngm_InternetDropinGame_Eff.tga
+BUTTON ID_MPSETUP MOUSE_CLICK MPSETUP MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 48 203 Mngm_MultiplayerSetup3.tga 0.4 48 203 Mngm_MultiplayerSetup3_Eff.tga
+//BUTTON ID_LAUNCHWON MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 357 423 Mngm_WVisitWON.tga 0.4 357 423 Mngm_WVisitWON_Eff.tga
+
+
+
+BUTTON ID_EXIT MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 510 418 Mngm_LowButt_Exit3.tga 0.4 510 418 Mngm_LowButt_exit3_Eff.tga
+
+BUTTON ID_LEAVEMP KEY_ESC MOUSE_CLICK STARTUP MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 63 418 Mngm_MainMenu.tga 0.4 63 418 Mngm_MainMenu_Eff.tga
+
+
+BUTTON ID_HELP KEY_F1 MOUSEOVER_SOUND MOUSEOVER1 CLICK_SOUND Buttonpress3 561 419 Mngm_Dropsbord_QuestionM.tga 0.4 561 419 Mngm_Question_Eff.tga
+
