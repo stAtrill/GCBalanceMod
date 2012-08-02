@@ -288,6 +288,8 @@ UNIT
 cc_artilleryvehicle
 UNIT
 cc_ioncannon
+UNIT
+cc_bomberaerodyne
 ESMODELNAME
 vehicle_repair_pack.mdl
 
