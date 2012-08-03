@@ -16344,10 +16344,10 @@ Range
 350.000000
 
 Damage
-270.000000
+230.000000
 
 DamageMultiplier
-2.500000
+2.000000
 
 ReloadTime
 0.000000
