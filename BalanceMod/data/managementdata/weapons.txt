@@ -6213,9 +6213,6 @@ Type
 SPECIAL WEAPONS
 
 Unit
-wc_heavytank
-
-Unit
 wc_mediumtank
 
 GroundHitEffect
