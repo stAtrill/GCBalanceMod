@@ -6382,16 +6382,16 @@ MoverType
 Homing
 
 BrakeFactor
-20.000000
+100.000000
 
 StartSpeed
 40.000000
 
 MaxSpeed
-100.000000
+85.000000
 
 Acceleration
-30.000000
+40.000000
 
 TrackDelay
 0.400000
@@ -15082,16 +15082,16 @@ MoverType
 Homing
 
 BrakeFactor
-30.000000
+40.000000
 
 StartSpeed
 10.000000
 
 MaxSpeed
-40.000000
+60.000000
 
 Acceleration
-37.000000
+45.000000
 
 TrackDelay
 0.400000
@@ -17166,7 +17166,7 @@ ShortName
 Advanced HE Round2
 
 LongName
-149
+246
 
 Accuracy
 150
@@ -17222,39 +17222,40 @@ SPECIAL WEAPONS
 Unit
 cc_heavytank
 
+//Borrowed from the cray Wallgun
 GroundHitEffect
 EntModel
 ModelName
-Advanced_HE_Round_Mhit_1.mdl
+Expl_CCCannon_XL+dirt_Ghit_1.mdl
 EffectSound
-LargeExplosion
+MediumExplosion
 TimeToLive
 3.000000
 
 ExpireEffect
 EntModel
 ModelName
-Advanced_HE_Round_Mhit_1.mdl
+Expl_CCArt_Mhit_1.mdl
 EffectSound
-LargeExplosion
+MediumExplosion
 TimeToLive
 3.000000
 
 MetalHitEffect
 EntModel
 ModelName
-Advanced_HE_Round_Mhit_1.mdl
+Expl_CCCannon_XL_Mhit_1.mdl
 EffectSound
-LargeExplosion
+MediumExplosion
 TimeToLive
 3.000000
 
 FleshHitEffect
 EntModel
 ModelName
-Advanced_HE_Round_Mhit_1.mdl
+Expl_CCCannon_XL+dirt_Ghit_1.mdl
 EffectSound
-LargeExplosion
+MediumExplosion
 TimeToLive
 3.000000
 
