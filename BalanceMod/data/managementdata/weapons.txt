@@ -16844,6 +16844,8 @@ SPECIAL WEAPONS
 Unit
 wc_mediumtank
 
+UNIT 
+wc_heavytank
 
 GroundHitEffect
 EntModel
@@ -17080,7 +17082,7 @@ SpecWeaponIcon
 13
 
 Charges
-2
+3
 
 SpawnSound
 Rocket3
