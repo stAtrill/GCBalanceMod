@@ -6382,19 +6382,19 @@ MoverType
 Homing
 
 BrakeFactor
-80.000000
+60.000000
 
 StartSpeed
 40.000000
 
 MaxSpeed
-85.000000
+70.000000
 
 Acceleration
-150.000000
+100.000000
 
 TrackDelay
-0.400000
+0.200000
 
 BlastRadius
 25.000000
