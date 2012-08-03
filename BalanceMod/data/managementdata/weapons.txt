@@ -5916,10 +5916,10 @@ Range
 400.000000
 
 Damage
-500.000000
+450.000000
 
 DamageMultiplier
-3.000000
+2.000000
 
 ReloadTime
 0.100000
