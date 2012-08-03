@@ -16974,7 +16974,7 @@ wc_heavytank
 GroundHitEffect
 EntModel
 ModelName
-Plasma_Moonburst_Mhit_1.mdl
+LongRange_Discharge_Hit.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -16983,7 +16983,7 @@ TimeToLive
 ExpireEffect
 EntModel
 ModelName
-Plasma_Moonburst_Mhit_1.mdl
+LongRange_Discharge_Hit.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -16992,7 +16992,7 @@ TimeToLive
 MetalHitEffect
 EntModel
 ModelName
-Plasma_Moonburst_Mhit_1.mdl
+LongRange_Discharge_Hit.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -17001,7 +17001,7 @@ TimeToLive
 FleshHitEffect
 EntModel
 ModelName
-Plasma_Moonburst_Mhit_1.mdl
+LongRange_Discharge_Hit.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -17012,13 +17012,13 @@ MoverType
 Rocket
 
 StartSpeed
-300.000000
+200.000000
 
 MaxSpeed
 350.000000
 
 Acceleration
-300.000000
+400.000000
 
 BlastRadius
 20.000000
@@ -17034,7 +17034,7 @@ RepType
 EntModel Rep
 
 ModelName
-Plasma_Moonburst.mdl
+LongRange_Discharge.mdl
 
 BEGIN WEAPON
 ShortName
