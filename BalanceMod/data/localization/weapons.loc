@@ -1,0 +1,246 @@
+0	BASIC TACTICAL BOMBS 1
+1	BASIC PULSE LASER 1
+2	BASIC AERO PULSE LASER 1
+3	BASIC AERO MACHINE GUN 1
+4	BASIC MACHINE GUN 1
+5	Pulse Laser Mk. 1
+6	Pulse Laser Mk. 2
+7	Scatter Laser Mk. 1
+8	Scatter Laser Mk. 2
+9	High-Explosive Bomb Mk. 1
+10	High-Explosive Bomb Mk. 2
+11	Machinegun Mk. 1
+12	Machinegun Mk. 2
+13	Chain Gun Mk. 1
+14	Chain Gun Mk. 2
+15	BASIC WRATH SMALLGUN TURRET 1
+16	BASIC WRATH PILLBOX 1
+17	wc_SentryGun1
+18	wc_SentryGun2
+19	wc_SentryGun3
+20	Pulse Laser Mk. 3
+21	Scatter Laser Mk. 3
+22	High-Explosive Bomb Mk. 3
+23	Machinegun Mk. 3
+24	Chain Gun Mk. 3
+25	BASIC AUTOCANNON TURRET 1
+26	BASIC AERO MISSILE LAUNCHER 1
+27	Gauss Rifle Mk. 2
+28	Gauss Rifle Mk. 1
+29	Gauss Rifle Mk. 3
+30	BASIC LARGE CALIBER GUN 1
+31	BASIC HEAVY LARGE CALIBER GUN 1
+32	BASIC HEAVY P BEAM ACCELERATOR 1
+33	BASIC ASSAULT RIFLE 1
+34	BASIC PILLBOX AUTOCANNON 1
+35	BASIC AUTOCANNON 1
+36	BASIC CRAYVEN ANTI-AIR MISSILE
+37	BASIC LIGHTNING GENERATOR 1
+38	HE Grenade Launcher
+39	Tactical Nuclear Shells
+40	Heavy Plasma Cannon Mk. 1
+41	Heavy Plasma Cannon Mk. 2
+42	Heavy Plasma Cannon Mk. 3
+43	A-T Torpedo Mk. 1
+44	A-T Torpedo Mk. 2
+45	A-T Torpedo Mk. 3
+46	BASIC TEMPLAR MISSILES 1
+47	HE Mini Bombs
+48	Air Defense Cannon Mk. 3
+49	BASIC FLAK GUN 1
+50	Tactical Nuclear Bomb
+51	TankBuster Discharge
+52	Anti-Air Warheads
+53	Improved AIM Missile
+54	MicroNuke Warhead
+55	Hammerhead Warhead
+56	Plasma Sunburst
+57	Advanced Spider Drone
+58	BASIC SNIPER RIFLE 1
+59	AIM Missile Mk. 1
+60	AIM Missile Mk. 2
+61	AIM Missile Mk. 3
+62	BASIC HEAVY PULSE LASER 1
+63	Lightning Cannon Mk. 1
+64	Lightning Cannon Mk. 3
+65	Lightning Cannon Mk. 2
+66	Autocannon Mk. 1
+67	Autocannon Mk. 2
+68	Autocannon Mk. 3
+69	Electro Cannon Mk. 3
+70	Electro Cannon Mk. 2
+71	Electro Cannon Mk. 1
+72	Twin Large Caliber Gun Mk. 1
+73	Twin Large Caliber Gun Mk. 2
+74	Twin Large Caliber Gun Mk. 3
+75	Large Caliber Gun Mk. 1
+76	Large Caliber Gun Mk. 2
+77	Large Caliber Gun Mk. 3
+78	Plasma Cannon Mk. 1
+79	Plasma Cannon Mk. 2
+80	Plasma Cannon Mk. 3
+81	BASIC PARTICLE BEAM ACCELERATOR 1
+82	Assault Rifle Mk. 1
+83	Assault Rifle Mk. 2
+84	Assault Rifle Mk. 3
+85	BASIC LIGHT PULSE CARBINE 1
+86	Storm Carbine Mk. 1
+87	Storm Carbine Mk. 2
+88	Storm Carbine Mk. 3
+89	Air-To-Air Plasma Missile Mk. 1
+90	SMAUG-12 Flamethrower
+91	Jannice Warhead
+92	ICM-DP TseTse Rocket
+93	Focused Energy Pulse
+94	Fragmentation Bomb
+95	HE Firefly Rocket
+96	Air-To-Air Plasma Missile Mk. 3
+97	BASIC GUIDED TORPEDO LAUNCHER 1
+98	Air-To-Air Plasma Missile Mk. 2
+99	ADATS Missile Mk. 2
+100	ADATS Missile Mk. 1
+101	ADATS Missile Mk. 3
+102	BASIC MISSILE LAUNCHER 1
+103	cc_sentryautocannon
+104	cc_sentryantiair
+105	cc_sentryrocket
+106	Improved Plasma Missile
+107	Fragmentation Torpedo
+108	Solar Torpedo
+109	HE Rounds
+110	SCREAM Torpedo Mk. 1
+111	SCREAM Torpedo Mk. 3
+112	SCREAM Torpedo Mk. 2
+113	BASIC TORPEDO LAUNCHER 1
+114	BASIC ROCKET LAUNCHER 1
+115	HEAT Rocket Mk. 1
+116	HEAT Rocket Mk. 2
+117	HEAT Rocket Mk. 3
+118	BASIC WRATH MISSILE TURRET 1
+119	BASIC BUNKER GUN 1
+120	BASIC WALL GUN 1
+121	BASIC W ANTIAIR 1
+122	BASIC WRATH WALLGUN 1
+123	155mm Howitzer Mk. 1
+124	155mm Howitzer Mk. 2
+125	155mm Howitzer Mk. 3
+126	BASIC HOWITZER 1
+127	BASIC ARTILLERY 1
+128	Proton Particle Launcher Mk. 1
+129	Proton Particle Launcher Mk. 2
+130	Proton Particle Launcher Mk. 3
+131	BASIC SUPERHEATED PARTICLE LAUNCHER 1
+132	BASIC WRATH HOWITZER 1
+133	GHE Drone Mk. 1
+134	GHE Drone Mk. 2
+135	GHE Drone Mk. 3
+136	BASIC DRONE LAUNCHER 1
+137	140mm RAW
+138	GyroJet Ammunition
+139	RMM-9 Infantry Mortar
+140	LongRange Discharge
+141	Electro Field
+142	Hellfire Missiles
+143	SCU-Focus Prism
+144	SCU-Frequency Prism
+145	Electro Dagger
+146	Depleted Uranium Rounds
+147	CG-89mm Antitank Rocket
+148	Plasma Moonburst
+149	Advanced HE Round
+150	Purifier Beam Mk. 1
+151	Purifier Beam Mk. 2
+152	Purifier Beam Mk. 3
+153	BASIC BEAM PLATFORM 1
+154	Air Defense Cannon Mk. 1
+155	Air Defense Cannon Mk. 2
+156	Air-to-Air Death Missiles
+157	Highball
+158	Plasma Explosion
+159	Plasma Destroyer
+160	Anti-Tank Discharge
+161	BASIC ORDER POWER
+162	Air-to-Air Death Missiles
+163	Air-to-Air Death Missiles
+164	Highball
+165	Highball
+166	Plasma Explosion
+167	Plasma Explosion
+168	Plasma Destroyer
+169	Plasma Destroyer
+170	Anti-Tank Discharge
+171	Anti-Tank Discharge
+172	BASIC ORDER POWER
+173	BASIC ORDER POWER
+174	Naplam Burst
+175	Plasma Grenades
+176	Plasma Flare
+177	Ultra-Fuel Energy Blast
+178	Anti-Air Burst
+179	Naplam Burst
+180	Naplam Burst
+181	Anti-Personnel Burst
+182	Anti-Personnel Burst
+183	MIRV Wide Burst
+184	MIRV Wide Burst
+185	Plasma Flare
+186	BASIC MERC FIGHTERAERO
+187	BASIC MERC FIGHTERAERO
+188	Ultra-Fuel Energy Blast
+189	Ultra-Fuel Energy Blast
+190	Fireball
+191	Fireball
+192	BASIC CRAYVEN ION
+193	Atmospheric Particle Accelerator
+194	cc_commandapc
+195	BASIC MERC MEDIUM
+196	BASIC MERC MEDIUM
+197	BASIC MERC SWARM
+198	BASIC MERC MEDIUM
+199	BASIC MERC FIGHTERAERO
+200	Power Missiles
+201	Anti-Personnel Burst
+202	Weapon Temp Name Place
+203	BASIC CRAYVEN ION
+204	BASIC CRAYVEN ION
+205	BASIC MERC SWARM
+206	Anti-Air Burst
+207	Anti-Air Burst
+208	Power Missiles
+209	Nuclear Napalm
+210	One Stone Missiles
+211	High Radius Fuel
+212	Hades Maelstrom
+213	AG-72 Short-Range Perforator
+214	RMM-13 Heavy Infantry Mortar
+215	Hyper-Plasma Charges
+216	Land/Air Plasma Emulator
+217	Close-Range Energy Perforator
+218	GrU-9 RSA-AMS Missiles Mk. 7
+219	Hellenback Rockets
+220	Plasma Grenade
+221	Hot Plasma Burst
+222	Hermes Rounds
+223	Fires of the Damned
+224	Anti-Plasma Destroyer
+225	Death From Above
+226	Needle Spray
+227	Atmospheric Ionizer
+228	Hyper Rocket
+229	Hades Micronuke Grenades
+230	Ares AP Round
+231	Expanding Napalm Grenades
+232	Particle Accelerator
+233	Anti-Personnel Bombs
+234	Short-Range Perforator
+235	Plasma Bombs
+236	Power Missiles
+237	BASIC MERC SWARM
+238	Fireball
+239	Charged-Particle Burst
+240	Anti-Personnel Bombs
+241	Plasma Grenades
+242	Plasma Grenades
+243	Plasma Flare
+244	Ares AP Rounds
+245	Plasma Starburst

@@ -16842,10 +16842,8 @@ Type
 SPECIAL WEAPONS
 
 Unit
-wc_heavytank
-
-Unit
 wc_mediumtank
+
 
 GroundHitEffect
 EntModel
@@ -16917,7 +16915,7 @@ ShortName
 Plasma Starburst
 
 LongName
-148
+245
 
 Accuracy
 200
@@ -16972,9 +16970,6 @@ SPECIAL WEAPONS
 
 Unit
 wc_heavytank
-
-Unit
-wc_mediumtank
 
 GroundHitEffect
 EntModel
