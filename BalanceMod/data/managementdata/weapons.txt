@@ -6382,7 +6382,7 @@ MoverType
 Homing
 
 BrakeFactor
-100.000000
+80.000000
 
 StartSpeed
 40.000000
@@ -6391,7 +6391,7 @@ MaxSpeed
 85.000000
 
 Acceleration
-40.000000
+150.000000
 
 TrackDelay
 0.400000
@@ -12150,9 +12150,6 @@ Type
 SPECIAL WEAPONS
 
 Unit
-cc_heavytank
-
-Unit
 cc_mediumtank
 
 GroundHitEffect
@@ -15208,16 +15205,16 @@ MoverType
 Homing
 
 BrakeFactor
-30.000000
+40.000000
 
 StartSpeed
 10.000000
 
 MaxSpeed
-40.000000
+60.000000
 
 Acceleration
-37.000000
+45.000000
 
 TrackDelay
 0.400000
@@ -15334,16 +15331,16 @@ MoverType
 Homing
 
 BrakeFactor
-20.000000
+40.000000
 
 StartSpeed
 10.000000
 
 MaxSpeed
-40.000000
+60.000000
 
 Acceleration
-30.000000
+45.000000
 
 TrackDelay
 0.400000
@@ -15460,16 +15457,16 @@ MoverType
 Homing
 
 BrakeFactor
-20.000000
+30.000000
 
 StartSpeed
 10.000000
 
 MaxSpeed
-40.000000
+60.000000
 
 Acceleration
-30.000000
+40.000000
 
 TrackDelay
 0.400000
@@ -17095,6 +17092,9 @@ SPECIAL WEAPONS
 
 Unit
 cc_mediumtank
+
+Unit
+cc_heavytank
 
 GroundHitEffect
 EntModel
