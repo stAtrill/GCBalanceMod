@@ -1,6 +1,7 @@
 All
 
-Increase the amount of armour gained by using defensive setting
+Increase the amount of armour gained by using defensive setting - Done
+-(May need another pass, if this isn't sufficient)
 Slightly increase the damage buff by setting units to offensive
 
 
@@ -14,3 +15,5 @@ Increase drone damage
 Increase templar special weapon damage - done
 Add extra moonburst charge for OND Heavies
 Decrease duration of Light Vortex
+Make Light tanks useful
+Make Electro Dagger useful
