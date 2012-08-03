@@ -37,7 +37,7 @@ PICTURE 62 418 Mngm_L_L_Horiz_Line.tga
 
 
 //Balancemod Enabled!
-PICTURE 168 33 Balancemodenabled.tga
+PICTURE 300 81 Balancemodenabled.tga
 
 //OPTION BUTTS +38
 
