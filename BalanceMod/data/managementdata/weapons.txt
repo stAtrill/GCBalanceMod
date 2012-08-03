@@ -657,7 +657,7 @@ Range
 200.000000
 
 Damage
-90.000000
+100.000000
 
 DamageMultiplier
 1.500000
@@ -867,7 +867,7 @@ Range
 250.000000
 
 Damage
-90.000000
+100.000000
 
 DamageMultiplier
 1.500000
@@ -1092,7 +1092,7 @@ Range
 250.000000
 
 Damage
-1000.000000
+1200.000000
 
 DamageMultiplier
 1.500000
@@ -1317,7 +1317,7 @@ Range
 250.000000
 
 Damage
-90.000000
+100.000000
 
 DamageMultiplier
 1.500000
@@ -1527,7 +1527,7 @@ Range
 250.000000
 
 Damage
-90.000000
+100.000000
 
 DamageMultiplier
 1.500000
@@ -2922,7 +2922,7 @@ Range
 500.000000
 
 Damage
-120.000000
+140.000000
 
 DamageMultiplier
 1.500000
@@ -4428,7 +4428,7 @@ Range
 250.000000
 
 Damage
-200.000000
+230.000000
 
 DamageMultiplier
 1.500000
@@ -4758,7 +4758,7 @@ Range
 180.000000
 
 Damage
-180.000000
+200.000000
 
 DamageMultiplier
 1.500000
@@ -4899,7 +4899,7 @@ GroundAttackFlag
 1
 
 AirAttackFlag
-0
+1
 
 SpecWeaponFlag
 0
@@ -6630,7 +6630,7 @@ Range
 300.000000
 
 Damage
-350.000000
+390.000000
 
 DamageMultiplier
 1.500000
@@ -7161,7 +7161,7 @@ Range
 400.000000
 
 Damage
-220.000000
+240.000000
 
 DamageMultiplier
 1.500000
@@ -7392,7 +7392,7 @@ Range
 250.000000
 
 Damage
-120.000000
+135.000000
 
 DamageMultiplier
 1.500000
@@ -7707,7 +7707,7 @@ Range
 250.000000
 
 Damage
-135.000000
+155.000000
 
 DamageMultiplier
 1.500000
@@ -8028,7 +8028,7 @@ Range
 250.000000
 
 Damage
-200.000000
+220.000000
 
 DamageMultiplier
 1.500000
@@ -8364,7 +8364,7 @@ Range
 300.000000
 
 Damage
-300.000000
+330.000000
 
 DamageMultiplier
 1.500000
@@ -8697,7 +8697,7 @@ Range
 300.000000
 
 Damage
-300.000000
+330.000000
 
 DamageMultiplier
 1.500000
@@ -9117,7 +9117,7 @@ Range
 200.000000
 
 Damage
-95.000000
+105.000000
 
 DamageMultiplier
 1.500000
@@ -9549,7 +9549,7 @@ Range
 200.000000
 
 Damage
-95.000000
+105.000000
 
 DamageMultiplier
 1.500000
@@ -10791,7 +10791,7 @@ Range
 300.000000
 
 Damage
-350.000000
+390.000000
 
 DamageMultiplier
 1.500000
@@ -10899,7 +10899,7 @@ Range
 300.000000
 
 Damage
-220.000000
+240.000000
 
 DamageMultiplier
 1.500000
@@ -12489,7 +12489,7 @@ Range
 300.000000
 
 Damage
-190.000000
+210.000000
 
 DamageMultiplier
 1.500000
@@ -13008,7 +13008,7 @@ Range
 300.000000
 
 Damage
-185.000000
+205.000000
 
 DamageMultiplier
 1.500000
@@ -13944,7 +13944,7 @@ Range
 700.000000
 
 Damage
-700.000000
+770.000000
 
 DamageMultiplier
 1.500000
@@ -14544,7 +14544,7 @@ Range
 700.000000
 
 Damage
-700.000000
+770.000000
 
 DamageMultiplier
 1.500000
@@ -15085,7 +15085,7 @@ MoverType
 Homing
 
 BrakeFactor
-20.000000
+30.000000
 
 StartSpeed
 10.000000
@@ -15094,7 +15094,7 @@ MaxSpeed
 40.000000
 
 Acceleration
-30.000000
+37.000000
 
 TrackDelay
 0.400000
@@ -15123,7 +15123,7 @@ Range
 300.000000
 
 Damage
-320.000000
+350.000000
 
 DamageMultiplier
 1.500000
@@ -17283,7 +17283,7 @@ Range
 350.000000
 
 Damage
-380.000000
+420.000000
 
 DamageMultiplier
 1.500000
@@ -17709,7 +17709,7 @@ Range
 500.000000
 
 Damage
-800.000000
+880.000000
 
 DamageMultiplier
 1.500000
