@@ -6168,10 +6168,10 @@ Range
 250.000000
 
 Damage
-90.000000
+130.000000
 
 DamageMultiplier
-20.000000
+40.000000
 
 ReloadTime
 0.100000
@@ -6198,7 +6198,7 @@ SpecWeaponIcon
 34
 
 Charges
-3
+4
 
 SpawnSound
 Rocket3
@@ -6297,7 +6297,7 @@ Range
 350.000000
 
 Damage
-500.000000
+550.000000
 
 DamageMultiplier
 10.000000
@@ -6388,10 +6388,10 @@ BrakeFactor
 20.000000
 
 StartSpeed
-10.000000
+40.000000
 
 MaxSpeed
-40.000000
+100.000000
 
 Acceleration
 30.000000
@@ -12108,7 +12108,7 @@ Range
 250.000000
 
 Damage
-90.000000
+130.000000
 
 DamageMultiplier
 40.000000
@@ -12138,7 +12138,7 @@ SpecWeaponIcon
 12
 
 Charges
-3
+4
 
 SpawnSound
 Rocket3
@@ -15372,7 +15372,7 @@ Accuracy
 100
 
 Range
-300.000000
+310.000000
 
 Damage
 300.000000
@@ -15897,7 +15897,7 @@ SpecWeaponIcon
 22
 
 Charges
-1
+3
 
 SpawnSound
 Grenade1
