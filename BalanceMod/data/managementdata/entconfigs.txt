@@ -127,7 +127,7 @@ Machinegun Mk. 1
 Scout Balanced
 30
 40
-60
+65
 85
 
 [ENTCFG]
@@ -139,7 +139,7 @@ Machinegun Mk. 1
 Scout Defensive
 30
 45
-55
+60
 85
 
 [ENTCFG]
@@ -151,7 +151,7 @@ Machinegun Mk. 2
 Scout Offensive
 35
 40
-55
+60
 85
 
 [ENTCFG]
@@ -163,7 +163,7 @@ Machinegun Mk. 3
 Scout Speed
 25
 40
-65
+70
 85
 
 [ENTCFG]
@@ -175,7 +175,7 @@ Autocannon Mk. 1
 Light Balanced
 40
 45
-50
+55
 60
 
 [ENTCFG]
@@ -187,7 +187,7 @@ Autocannon Mk. 1
 Light Defensive
 40
 50
-45
+50
 60
 
 [ENTCFG]
@@ -199,7 +199,7 @@ Autocannon Mk. 2
 Light Offensive
 45
 45
-45
+50
 60
 
 [ENTCFG]
@@ -211,7 +211,7 @@ Autocannon Mk. 3
 Light Speed
 35
 45
-55
+60
 60
 
 [ENTCFG]
@@ -223,7 +223,7 @@ Large Caliber Gun Mk. 1
 Medium Balanced
 75
 60
-45
+50
 60
 
 [ENTCFG]
@@ -235,7 +235,7 @@ Large Caliber Gun Mk. 1
 Medium Defensive
 75
 65
-40
+45
 60
 
 [ENTCFG]
@@ -247,7 +247,7 @@ Large Caliber Gun Mk. 2
 Medium Offensive
 80
 60
-40
+45
 60
 
 [ENTCFG]
@@ -259,7 +259,7 @@ Large Caliber Gun Mk. 3
 Medium Speed
 70
 60
-50
+55
 60
 
 [ENTCFG]
@@ -271,7 +271,7 @@ Twin Large Caliber Gun Mk. 1
 Heavy Balanced
 65
 85
-30
+35
 55
 
 [ENTCFG]
@@ -283,7 +283,7 @@ Twin Large Caliber Gun Mk. 1
 Heavy Defensive
 65
 90
-25
+30
 55
 
 [ENTCFG]
@@ -295,7 +295,7 @@ Twin Large Caliber Gun Mk. 2
 Heavy Offensive
 70
 85
-25
+30
 55
 
 [ENTCFG]
@@ -307,7 +307,7 @@ Twin Large Caliber Gun Mk. 3
 Heavy Speed
 60
 85
-35
+40
 55
 
 [ENTCFG]
@@ -319,7 +319,7 @@ Air Defense Cannon Mk. 1
 AA Balanced
 40
 45
-40
+45
 70
 
 [ENTCFG]
@@ -331,7 +331,7 @@ Air Defense Cannon Mk. 1
 AA Defensive
 40
 50
-35
+40
 70
 
 [ENTCFG]
@@ -343,7 +343,7 @@ Air Defense Cannon Mk. 2
 AA Offensive
 45
 45
-35
+40
 70
 
 [ENTCFG]
@@ -355,7 +355,7 @@ Air Defense Cannon Mk. 3
 AA Speed
 35
 45
-45
+50
 70
 
 [ENTCFG]
@@ -367,7 +367,7 @@ cc_artilleryvehicle
 Artillery Balanced
 80
 45
-30
+35
 50
 
 [ENTCFG]
@@ -379,7 +379,7 @@ cc_artilleryvehicle
 Artillery Defensive
 80
 50
-25
+30
 50
 
 [ENTCFG]
@@ -391,7 +391,7 @@ cc_artilleryvehicle
 Artillery Offensive
 85
 45
-25
+30
 50
 
 [ENTCFG]
@@ -403,7 +403,7 @@ cc_artilleryvehicle
 Artillery Speed
 75
 45
-35
+40
 50
 
 [ENTCFG]
@@ -415,7 +415,7 @@ ADATS Missile Mk. 1
 Rocket Balanced
 65
 45
-40
+45
 60
 
 [ENTCFG]
@@ -427,7 +427,7 @@ ADATS Missile Mk. 1
 Rocket Defensive
 65
 50
-35
+40
 60
 
 [ENTCFG]
@@ -439,7 +439,7 @@ ADATS Missile Mk. 2
 Rocket Offensive
 70
 45
-35
+40
 60
 
 [ENTCFG]
@@ -451,7 +451,7 @@ ADATS Missile Mk. 3
 Rocket Speed
 60
 45
-45
+50
 60
 
 [ENTCFG]
