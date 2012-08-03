@@ -9873,7 +9873,7 @@ Accuracy
 80
 
 Range
-150.000000
+500.000000
 
 Damage
 90.000000
@@ -15747,7 +15747,7 @@ Accuracy
 110
 
 Range
-200.000000
+500.000000
 
 Damage
 250.000000
@@ -17222,11 +17222,11 @@ SPECIAL WEAPONS
 Unit
 cc_heavytank
 
-//Borrowed from the cray Wallgun
+//Borrowed from the cray jeag 140mm raw spec
 GroundHitEffect
 EntModel
 ModelName
-Expl_CCCannon_XL+dirt_Ghit_1.mdl
+140mm_RAW_Mhit_1.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -17235,7 +17235,7 @@ TimeToLive
 ExpireEffect
 EntModel
 ModelName
-Expl_CCArt_Mhit_1.mdl
+140mm_RAW_Mhit_1.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -17244,7 +17244,7 @@ TimeToLive
 MetalHitEffect
 EntModel
 ModelName
-Expl_CCCannon_XL_Mhit_1.mdl
+140mm_RAW_Mhit_1.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -17253,11 +17253,12 @@ TimeToLive
 FleshHitEffect
 EntModel
 ModelName
-Expl_CCCannon_XL+dirt_Ghit_1.mdl
+140mm_RAW_Mhit_1.mdl
 EffectSound
 MediumExplosion
 TimeToLive
 3.000000
+
 
 BEGIN MOVER
 MoverType
