@@ -16844,7 +16844,7 @@ SPECIAL WEAPONS
 Unit
 wc_mediumtank
 
-UNIT 
+Unit 
 wc_heavytank
 
 GroundHitEffect
