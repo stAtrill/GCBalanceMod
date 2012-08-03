@@ -16914,6 +16914,135 @@ Plasma_Moonburst.mdl
 
 BEGIN WEAPON
 ShortName
+Plasma Starburst
+
+LongName
+148
+
+Accuracy
+200
+
+Range
+250.000000
+
+Damage
+500.000000
+
+DamageMultiplier
+5.000000
+
+ReloadTime
+0.100000
+
+BurstCount
+1
+
+BurstDelay
+3.000000
+
+BlastRadius
+0.000000
+
+GroundAttackFlag
+1
+
+AirAttackFlag
+0
+
+SpecWeaponFlag
+1
+
+SpecWeaponIcon
+35
+
+Charges
+2
+
+SpawnSound
+Rocket3
+
+SpecialBehaviorID
+0
+
+MinFireRange
+20.000000
+
+Type
+SPECIAL WEAPONS
+
+Unit
+wc_heavytank
+
+Unit
+wc_mediumtank
+
+GroundHitEffect
+EntModel
+ModelName
+Plasma_Moonburst_Mhit_1.mdl
+EffectSound
+MediumExplosion
+TimeToLive
+3.000000
+
+ExpireEffect
+EntModel
+ModelName
+Plasma_Moonburst_Mhit_1.mdl
+EffectSound
+MediumExplosion
+TimeToLive
+3.000000
+
+MetalHitEffect
+EntModel
+ModelName
+Plasma_Moonburst_Mhit_1.mdl
+EffectSound
+MediumExplosion
+TimeToLive
+3.000000
+
+FleshHitEffect
+EntModel
+ModelName
+Plasma_Moonburst_Mhit_1.mdl
+EffectSound
+MediumExplosion
+TimeToLive
+3.000000
+
+BEGIN MOVER
+MoverType
+Rocket
+
+StartSpeed
+300.000000
+
+MaxSpeed
+350.000000
+
+Acceleration
+300.000000
+
+BlastRadius
+20.000000
+
+SpinOffset
+0.000000
+
+SpinSpeed
+0.000000
+
+BEGIN REPTYPE
+RepType
+EntModel Rep
+
+ModelName
+Plasma_Moonburst.mdl
+
+BEGIN WEAPON
+ShortName
 Advanced HE Round
 
 LongName
@@ -17163,6 +17292,11 @@ EntModel Rep
 
 ModelName
 Advanced_HE_Round.mdl
+
+
+
+
+
 
 BEGIN WEAPON
 ShortName
