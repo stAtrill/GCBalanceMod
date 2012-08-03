@@ -16953,7 +16953,7 @@ SpecWeaponIcon
 35
 
 Charges
-2
+3
 
 SpawnSound
 Rocket3
