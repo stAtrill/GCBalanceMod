@@ -1,4 +1,4 @@
-//cc_lighttank.ent
+//wc_lighttank.ent
 ModName
 GC
 
@@ -8,7 +8,7 @@ SQUAD
 
 //Force (CRAYVEN, WRATH)
 Force
-CRAYVEN
+WRATH
 
 //Branch (INFANTRY, SUPPORT, TANK, AERODYNE, FIXEDGUN, BUILDING)
 Branch
@@ -19,127 +19,132 @@ APC
 
 // Squad button
 Button
-unitico_tank_2.tga
+unitico_hover_2.tga
 
 // Max number of units in squad
 MaxUnits
 4
 
+//Light tanks have radar sight
+RADARSIGHT
+
 //default team for this entity type (for editor, 0 based index)
 DefaultTeam
-2
+3
 
-//Description 
 Description
-183
+196
 
-//Order in management interface
 BranchSortOrderValue
 1
 
 //the name of the entity
 Name
-136
+165
 
 //score awarded in mp per unit in squad
 //default is 1 per unit
 MultiplayerScorePerEntity
 2
 
-//type of mover(foot, air, vehicle)
+//type of mover(foot, hover, air, vehicle)
 MoverType
-vehicle
+hover
 
 //Create an aimer
 UseAimer
 
-//Set up and down limits
 AimerXDegLimits
-90
-350
+60
+340
+//355
 
 //main model animation
 Model
-cc_lighttank
-
+wc_lighttank
 
 //child animation
 ChildOffset
-//offset of the child (X, -Y, Z)
-0.62
+//offset of the child (X, Y, Z)
+-0.3
 0.0
--2.37
+-1.14
 
-//Barrel Model
+
+
+//------------------------------------------------
+
+
+
+
 BarrelOffset
 //offset of the barrel child (x,y,z)
 0.0
 2.1
-0.0
+-0.17
 
 
-//Number of firing offsets
-FireOffsetCount
-2
 
-//fire offset (X, -Y, Z)
-FireOffset
--0.46
-0.07
-1.0
 
-//fire offset (X, -Y, Z) *** NOTE: UPDATE THIS OFFSET!!! /MW ***
+//fire offset (X, Y, Z)
 //FireOffset1
-0.46
-0.07
+0.3
+0.0
 1.0
 
+
+
+
+//------------------------------------------------
 //other stuff
 Radius
-3.5
+6.5
 Height
-2.0
+3.0
 PivotHeight
-0.0
+6.0
 Acceleration
-87.0
+45.0
 Friction
-80.0
+30.0
 MaxSpeed
-28.0
+30.0
 TurnSpeed
 //Radianer/sekund    6.28 = 1 varv/sekund
-1.8
+2.2
+TurnAcceleration
+30.0
+TurnFriction
+25.0
 HeadTurnSpeed
-3.0
-1.0
+4.0
+4.0
 SlopeBorder
 1
 ViewRange
-300
+300.0
 ProjectileProtection
 90
 Power
-2000
+1800
+FlyingHeight
+6.0
 TurnOffset
 10.0
-//turn was 20
-
 // Detection
 Stealth
-20
+25
 Perception
 50
 //WRECK
 WreckModel
-cc_lighttank_wreck
+wc_lighttank_wreck
 WreckModel
-cc_lighttank_wreck2
+wc_lighttank_wreck2
 WreckModel
-cc_lighttank_wreck3
+wc_lighttank_wreck3
 WreckModel
-cc_lighttank_wreck4
-
+wc_lighttank_wreck4
 
 //engine/ambient sound
 //valid strings are:
@@ -147,7 +152,7 @@ cc_lighttank_wreck4
 //snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
 //snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
 AmbientSound
-snd_engine_vehicle1
+snd_engine_hover1
 
 //sound bank
 //valid banks are:
@@ -182,5 +187,5 @@ snd_engine_vehicle1
 //OND_SCOUTVEHICLE
 //OND_TEMPLAR
 SoundBank
-CRAYVEN_LIGHTTANK
+OND_LIGHTHOVERDYNE
 

@@ -6840,10 +6840,10 @@ ReloadTime
 0.300000
 
 BurstCount
-4
+6
 
 BurstDelay
-1.500000
+1.000000
 
 BlastRadius
 0.000000
@@ -6913,7 +6913,7 @@ MoverType
 Bullet
 
 Speed
-400.000000
+600.000000
 
 BEGIN REPTYPE
 RepType
@@ -7296,10 +7296,10 @@ BurstCount
 4
 
 BurstDelay
-1.500000
+0.500000
 
 BlastRadius
-0.000000
+5.000000
 
 GroundAttackFlag
 1
@@ -7401,10 +7401,10 @@ BurstCount
 4
 
 BurstDelay
-1.500000
+0.500000
 
 BlastRadius
-0.000000
+5.000000
 
 GroundAttackFlag
 1
@@ -7506,10 +7506,10 @@ BurstCount
 4
 
 BurstDelay
-1.500000
+0.500000
 
 BlastRadius
-0.000000
+5.000000
 
 GroundAttackFlag
 1
@@ -7608,13 +7608,13 @@ ReloadTime
 0.300000
 
 BurstCount
-4
+6
 
 BurstDelay
-1.500000
+1.000000
 
 BlastRadius
-0.000000
+5.000000
 
 GroundAttackFlag
 1
@@ -7681,7 +7681,7 @@ MoverType
 Bullet
 
 Speed
-400.000000
+600.000000
 
 BEGIN REPTYPE
 RepType
@@ -7707,19 +7707,19 @@ Damage
 155.000000
 
 DamageMultiplier
-1.500000
+1.000000
 
 ReloadTime
 0.300000
 
 BurstCount
-4
+6
 
 BurstDelay
 1.500000
 
 BlastRadius
-0.000000
+5.000000
 
 GroundAttackFlag
 1
@@ -7786,7 +7786,7 @@ MoverType
 Bullet
 
 Speed
-400.000000
+600.000000
 
 BEGIN REPTYPE
 RepType
@@ -7818,13 +7818,13 @@ ReloadTime
 0.300000
 
 BurstCount
-4
+6
 
 BurstDelay
-1.500000
+1.000000
 
 BlastRadius
-0.000000
+5.000000
 
 GroundAttackFlag
 1
@@ -7891,7 +7891,7 @@ MoverType
 Bullet
 
 Speed
-400.000000
+600.000000
 
 BEGIN REPTYPE
 RepType
