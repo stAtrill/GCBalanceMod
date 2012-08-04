@@ -6449,7 +6449,7 @@ SpecWeaponIcon
 29
 
 Charges
-3
+1
 
 SpawnSound
 Grenade1
@@ -6469,7 +6469,7 @@ wc_dronecarrier
 GroundHitEffect
 EntModel
 ModelName
-Advanced_Spider_Drone_Mhit_1.mdl
+Wc_Exp_AAMhit_M.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -6478,7 +6478,7 @@ TimeToLive
 ExpireEffect
 EntModel
 ModelName
-Advanced_Spider_Drone_Mhit_1.mdl
+Wc_Exp_AAMhit_M.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -6487,7 +6487,7 @@ TimeToLive
 MetalHitEffect
 EntModel
 ModelName
-Advanced_Spider_Drone_Mhit_1.mdl
+Wc_Exp_AAMhit_M.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -6496,7 +6496,7 @@ TimeToLive
 FleshHitEffect
 EntModel
 ModelName
-Advanced_Spider_Drone_Mhit_1.mdl
+Wc_Exp_AAMhit_M.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -6522,14 +6522,14 @@ TrackDelay
 0.200000
 
 BlastRadius
-25.000000
+35.000000
 
 BEGIN REPTYPE
 RepType
 EntModel Rep
 
 ModelName
-Advanced_Spider_Drone.mdl
+Improved_Plasma_Missile_Shot.mdl
 
 
 BEGIN WEAPON
