@@ -300,7 +300,7 @@ NAME
 DESCRIPTION
 15
 CHARGES
-3
+1
 RECHARGETIME
 30.0
 DURATION
@@ -309,6 +309,10 @@ SLOTS
 2
 UNIT
 cc_mediumtank
+
+UNIT
+cc_heavytank
+
 ESMODELNAME
 smoke_screen_launcher.mdl
 
