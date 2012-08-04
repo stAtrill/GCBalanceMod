@@ -1,0 +1,414 @@
+//MARINE
+0	Balanced
+1	Overall good stats
+2	Defensive
+3	More armor
+4	Offensive
+5	More firepower
+6	Recon
+7	Better stealth
+//JAEGER
+8	Balanced
+9	Jaeger
+10	Defensive
+11	Jaeger
+12	Offensive
+13	Jaeger
+14	Recon
+15	Jaeger
+//SCOUTTERRADYNE
+16	Balanced
+17	Scout
+18	Defensive
+19	Scout
+20	Offensive
+21	Scout
+22	Speed
+23	Scout
+//LIGHTTERRADYNE
+24	Balanced
+25	Light Terradyne
+26	Defensive
+27	Light Terradyne
+28	Offensive
+29	Light Terradyne
+30	Speed
+31	Light Terradyne
+//MEDIUMTERRADYNE
+32	Balanced
+33	Main Battle Terradyne
+34	Defensive
+35	Main Battle Terradyne
+36	Offensive
+37	Main Battle Terradyne
+38	Speed
+39	Main Battle Terradyne
+//HEAVYTERRADYNE
+40	Balanced
+41	Annihilator Terradyne
+42	Defensive
+43	Annihilator Terradyne
+44	Offensive
+45	Annihilator Terradyne
+46	Speed
+47	Annihilator Terradyne
+//ANTIAIRTERRADYNE
+48	Balanced
+49	Anti-Air Terradyne
+50	Defensive
+51	Anti-Air Terradyne
+52	Offensive
+53	Anti-Air Terradyne
+54	Speed
+55	Anti-Air Terradyne
+//ARTILLERY
+56	Balanced
+57	Artillery Terradyne
+58	Defensive
+59	Artillery Terradyne
+60	Non-Ballistic
+61	Artillery Terradyne
+62	Speed
+63	Artillery Terradyne
+//ROCKETVEHICLE
+64	Balanced
+65	Rocket Terradyne
+66	Defensive
+67	Rocket Terradyne
+68	Offensive
+69	Rocket Terradyne
+70	Speed
+71	Rocket Terradyne
+//SCOUTAERODYNE
+72	Balanced
+73	Scout Aerodyne
+74	Defensive
+75	Scout Aerodyne
+76	Offensive
+77	Scout Aerodyne
+78	Speed
+79	Scout Aerodyne
+//FIGHTERAERODYENE
+80	Balanced
+81	Fighter Aerodyne
+82	Defensive
+83	Fighter Aerodyne
+84	Offensive
+85	Fighter Aerodyne
+86	Speed
+87	Fighter Aerodyne
+//ATTACKAERODYNE
+88	Balanced
+89	Attack Aerodyne
+90	Defensive
+91	Attack Aerodyne
+92	Offensive
+93	Attack Aerodyne
+94	Speed
+95	Attack Aerodyne
+//BOMBERAERODYNE
+96	Balanced
+97	Bomber Aerodyne
+98	Defensive
+99	Bomber Aerodyne
+100	Offensive
+101	Bomber Aerodyne
+102	Speed
+103	Bomber Aerodyne
+//CRUSADER
+104	Balanced
+105	Crusader
+106	Defensive
+107	Crusader
+108	Offensive
+109	Crusader
+110	Recon
+111	Crusader
+//TEMPLAR
+112	Balanced
+113	Templar
+114	Defensive
+115	Templar
+116	Offensive
+117	Templar
+118	Recon
+119	Templar
+//O_SCOUTBIKE
+120	Balanced
+121	Scoutbike
+122	Defensive
+123	Scoutbike
+124	Offensive
+125	Scoutbike
+126	Speed
+127	Scoutbike
+//LIGHTHOVERDYNE
+128	Balanced
+129	Light Hoverdyne
+130	Defensive
+131	Light Hoverdyne
+132	Offensive
+133	Light Hoverdyne
+134	Speed
+135	Light Hoverdyne
+//MEDIUMHOVERDYNE
+136	Balanced
+137	Medium Hoverdyne
+138	Defensive
+139	Medium Hoverdyne
+140	Offensive
+141	Medium Hoverdyne
+142	Speed
+143	Medium Hoverdyne
+//HEAVYHOVERDYNE
+144	Balanced
+145	Heavy Hoverdyne
+146	Defensive
+147	Heavy Hoverdyne
+148	Offensive
+149	Heavy Hoverdyne
+150	Speed
+151	Heavy Hoverdyne
+//ANTIAIRHOVERDYNE
+152	Balanced
+153	Anti-Air Hoverdyne
+154	Defensive
+155	Anti-Air Hoverdyne
+156	Offensive
+157	Anti-Air Hoverdyne
+158	Speed
+159	Anti-Air Hoverdyne
+//ARTILLERYHOVERDYNE
+160	Balanced
+161	Artillery Hoverdyne
+162	Defensive
+163	Artillery Hoverdyne
+164	Non-Ballistic
+165	Artillery Hoverdyne
+166	Speed
+167	Artillery Hoverdyne
+//BEAMPLATFORM
+168	Balanced
+169	Beam Platform
+170	Defensive
+171	Beam Platform
+172	Offensive
+173	Beam Platform
+174	Speed
+175	Beam Platform
+//DRONECARRIER
+176	Balanced
+177	Drone Carrier
+178	Defensive
+179	Drone Carrier
+180	Offensive
+181	Drone Carrier
+182	Speed
+183	Drone Carrier
+//ONDLIGHTAERODYNE
+184	Balanced
+185	Scout Aerodyne
+186	Defensive
+187	Scout Aerodyne
+188	Offensive
+189	Scout Aerodyne
+190	Speed
+191	Scout Aerodyne
+//ONDATTACKAERODYNE
+192	Balanced
+193	Attack Aerodyne
+194	Defensive
+195	Attack Aerodyne
+196	Offensive
+197	Attack Aerodyne
+198	Speed
+199	Attack Aerodyne
+//ONDFIGHTERAERODYNE
+200	Balanced
+201	Fighter Aerodyne
+202	Defensive
+203	Fighter Aerodyne
+204	Offensive
+205	Fighter Aerodyne
+206	Speed
+207	Fighter Aerodyne
+//BASIC
+208	Balanced
+209	Overall good stats
+210	Defensive
+211	More armor
+212	Offensive
+213	More firepower
+214	Recon
+215	Better stealth
+//PLASMAG
+216	Balanced
+217	Overall good stats
+218	Defensive
+219	More armor
+220	Offensive
+221	More firepower
+222	Recon
+223	Better stealth
+//POWERMERC
+224	Balanced
+225	Overall good stats
+226	Defensive
+227	More armor
+228	Offensive
+229	More firepower
+230	Recon
+231	Better stealth
+//SNIPER
+232	Balanced
+233	Overall good stats
+234	Defensive
+235	More armor
+236	Offensive
+237	More firepower
+238	Recon
+239	Better stealth
+//SCOUTMERC
+240	Balanced
+241	Scout
+242	Defensive
+243	Scout
+244	Offensive
+245	Scout
+246	Speed
+247	Scout
+//LIGHTMERC
+248	Balanced
+249	Light Terradyne
+250	Defensive
+251	Light Terradyne
+252	Offensive
+253	Light Terradyne
+254	Speed
+255	Light Terradyne
+//MEDIUMMERC
+256	Balanced
+257	Main Battle Terradyne
+258	Defensive
+259	Main Battle Terradyne
+260	Offensive
+261	Main Battle Terradyne
+262	Speed
+263	Main Battle Terradyne
+//HEAVYMERC
+264	Balanced
+265	Annihilator Terradyne
+266	Defensive
+267	Annihilator Terradyne
+268	Offensive
+269	Annihilator Terradyne
+270	Speed
+271	Annihilator Terradyne
+//AAMERC
+272	Balanced
+273	Anti-Air Terradyne
+274	Defensive
+275	Anti-Air Terradyne
+276	Offensive
+277	Anti-Air Terradyne
+278	Speed
+279	Anti-Air Terradyne
+//ARTILLERYMERC
+280	Balanced
+281	Artillery Terradyne
+282	Defensive
+283	Artillery Terradyne
+284	Offensive
+285	Artillery Terradyne
+286	Speed
+287	Artillery Terradyne
+//PYRO
+288	Balanced
+289	Pyro
+290	Defensive
+291	Pyro
+292	Offensive
+293	Pyro
+294	Speed
+295	Pyro
+//SCOUTAERODYNEMERC
+296	Balanced
+297	Scout Aerodyne
+298	Defensive
+299	Scout Aerodyne
+300	Offensive
+301	Scout Aerodyne
+302	Speed
+303	Scout Aerodyne
+//FIGHTERAERODYENEMERC
+304	Balanced
+305	Fighter Aerodyne
+306	Defensive
+307	Fighter Aerodyne
+308	Offensive
+309	Fighter Aerodyne
+310	Speed
+311	Fighter Aerodyne
+//ATTACKAERODYNEMERC
+312	Balanced
+313	Attack Aerodyne
+314	Defensive
+315	Attack Aerodyne
+316	Offensive
+317	Attack Aerodyne
+318	Speed
+319	Attack Aerodyne
+//SWARM
+320	Balanced
+321	Swarm
+322	Defensive
+323	Swarm
+324	Offensive
+325	Swarm
+326	Speed
+327	Swarm
+//POWERARMOR
+328	Balanced
+329	Powerdyne
+330	Defensive
+331	Powerdyne
+332	Offensive
+333	Powerdyne
+334	Recon
+335	Powerdyne
+//IONCANNON
+336	Balanced
+337	Attack Aerodyne
+338	Defensive
+339	Attack Aerodyne
+340	Offensive
+341	Attack Aerodyne
+342	Speed
+343	Attack Aerodyne
+//POWER
+344	Balanced
+345	Powerdyne
+346	Defensive
+347	Powerdyne
+348	Offensive
+349	Powerdyne
+350	Recon
+351	Powerdyne
+//FAITHFUL
+352	Balanced
+353	Faithful
+354	Defensive
+355	Faithful
+356	Offensive
+357	Faithful
+358	Recon
+359	Faithful
+//PX_COMMAND_APC
+360	Balanced
+361	Overall good stats
+362	Defensive
+363	More armor
+364	Offensive
+365	More firepower
+366	Recon
+367	Better stealth

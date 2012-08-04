@@ -14064,7 +14064,7 @@ Range
 700.000000
 
 Damage
-770.000000
+700.000000
 
 DamageMultiplier
 1.500000
@@ -14164,7 +14164,7 @@ BlastRadius
 50.000000
 
 HighOrLowFlag
-1
+0
 
 BEGIN REPTYPE
 RepType
@@ -14664,7 +14664,7 @@ Range
 700.000000
 
 Damage
-770.000000
+700.000000
 
 DamageMultiplier
 1.500000
@@ -15987,7 +15987,7 @@ Range
 1000.000000
 
 Damage
-1000.000000
+1200.000000
 
 DamageMultiplier
 4.000000
@@ -16017,7 +16017,7 @@ SpecWeaponIcon
 22
 
 Charges
-3
+1
 
 SpawnSound
 Grenade1
