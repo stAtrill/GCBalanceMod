@@ -6038,10 +6038,10 @@ Accuracy
 100
 
 Range
-300.000000
+250.000000
 
 Damage
-600.000000
+300.000000
 
 DamageMultiplier
 1.000000
