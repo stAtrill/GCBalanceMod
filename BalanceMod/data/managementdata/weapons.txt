@@ -6522,7 +6522,7 @@ TrackDelay
 0.200000
 
 BlastRadius
-35.000000
+95.000000
 
 BEGIN REPTYPE
 RepType
