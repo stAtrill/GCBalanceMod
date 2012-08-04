@@ -1,0 +1,41 @@
+TEXTURE Textures/Effects/Expl_Gas_1_1.tga
+TEXTURE Textures/Effects/Expl_Gas_1_2.tga
+TEXTURE Textures/Effects/Expl_Gas_1_3.tga
+TEXTURE Textures/Effects/Expl_Gas_1_4.tga
+TEXTURE Textures/Effects/Expl_Gas_1_4.tga
+TEXTURE Textures/Effects/Expl_Gas_1_4.tga
+TEXTURE Textures/Effects/Expl_Gas_1_4.tga
+TEXTURE Textures/Effects/Expl_Gas_1_4.tga
+TEXTURE Textures/Effects/Expl_Gas_1_4.tga
+TEXTURE Textures/Effects/Expl_Gas_1_4.tga
+TEXTURE Textures/Effects/Expl_Gas_1_4.tga
+TEXTURE Textures/Effects/Expl_Gas_1_4.tga
+
+ANIMATION_TIME 1
+V0 0 30 0
+VMAX 0 0 0   
+DELTA_V 3.0
+START_SIZE 2.0
+START_OPACITY 1.0
+SPAWN_TIME 0.05
+BLEND_TYPE ADDITIVE
+TIME_LIMIT 1
+RANDOM_ORIENTATION OFF
+
+BEGIN_PHASE
+	FINAL_SIZE 6.0
+	FINAL_OPACITY 0.5
+	TIME 0.1
+END_PHASE
+
+BEGIN_PHASE
+	FINAL_SIZE 9.0
+	FINAL_OPACITY 0.8
+	TIME 0.1
+END_PHASE
+
+BEGIN_PHASE
+	FINAL_SIZE 10.0
+	FINAL_OPACITY 0.0
+	TIME 0.5
+END_PHASE
