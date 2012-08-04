@@ -6041,7 +6041,7 @@ Range
 250.000000
 
 Damage
-300.000000
+600.000000
 
 DamageMultiplier
 1.000000
@@ -6050,7 +6050,7 @@ ReloadTime
 0.000000
 
 BurstCount
-2
+1
 
 BurstDelay
 0.000000
@@ -6091,7 +6091,7 @@ cc_lighttank
 GroundHitEffect
 EntModel
 ModelName
-Hammerhead_Warhead_Mhit_1.mdl
+140mm_RAW_Mhit_1.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -6100,7 +6100,7 @@ TimeToLive
 ExpireEffect
 EntModel
 ModelName
-Hammerhead_Warhead_Mhit_1.mdl
+140mm_RAW_Mhit_1.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -6109,7 +6109,7 @@ TimeToLive
 MetalHitEffect
 EntModel
 ModelName
-Hammerhead_Warhead_Mhit_1.mdl
+140mm_RAW_Mhit_1.mdl
 EffectSound
 MediumExplosion
 TimeToLive
@@ -6118,7 +6118,7 @@ TimeToLive
 FleshHitEffect
 EntModel
 ModelName
-Hammerhead_Warhead_Mhit_1.mdl
+140mm_RAW_Mhit_1.mdl
 EffectSound
 MediumExplosion
 TimeToLive
