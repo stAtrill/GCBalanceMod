@@ -6030,10 +6030,9 @@ MicroNuke_Warhead.mdl
 
 BEGIN WEAPON
 ShortName
-Hammerhead Warhead
-
+Spearhead Missile
 LongName
-55
+247
 
 Accuracy
 100
@@ -6042,7 +6041,7 @@ Range
 300.000000
 
 Damage
-800.000000
+600.000000
 
 DamageMultiplier
 1.000000
@@ -6051,7 +6050,7 @@ ReloadTime
 0.000000
 
 BurstCount
-3
+2
 
 BurstDelay
 0.000000
@@ -6060,7 +6059,7 @@ BlastRadius
 0.000000
 
 GroundAttackFlag
-0
+1
 
 AirAttackFlag
 1
@@ -6078,7 +6077,7 @@ SpawnSound
 Rocket3
 
 SpecialBehaviorID
-0
+1
 
 MinFireRange
 0.000000
@@ -6087,7 +6086,7 @@ Type
 SPECIAL WEAPONS
 
 Unit
-cc_rocketvehicle
+cc_lighttank
 
 GroundHitEffect
 EntModel
@@ -6133,19 +6132,19 @@ BrakeFactor
 150.000000
 
 StartSpeed
-170.000000
+10.000000
 
 MaxSpeed
-280.000000
+880.000000
 
 Acceleration
-180.000000
+350.000000
 
 TrackDelay
-0.700000
+0.300000
 
 BlastRadius
-70.000000
+30.000000
 
 BEGIN REPTYPE
 RepType
@@ -6162,7 +6161,7 @@ LongName
 56
 
 Accuracy
-200
+300
 
 Range
 250.000000
@@ -16218,6 +16217,7 @@ EntModel Rep
 
 ModelName
 Hellfire_Missiles.mdl
+
 
 BEGIN WEAPON
 ShortName
