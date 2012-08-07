@@ -1,0 +1,165 @@
+//CC_MediumTank.ent
+ModName
+GC
+
+//Class (SQUAD, BUILDING)
+Class
+SQUAD
+
+//Force (CRAYVEN, WRATH)
+Force
+CRAYVEN
+
+//Branch (INFANTRY, SUPPORT, TANK, AERODYNE, FIXEDGUN, BUILDING)
+Branch
+TANK
+
+// Squad button
+Button
+unitico_tank_3.tga
+
+// Max number of units in squad
+MaxUnits
+4
+
+//default team for this entity type (for editor, 0 based index)
+DefaultTeam
+2
+
+//uses enfiles.loc
+Description
+184
+
+BranchSortOrderValue
+2
+
+//the name of the entity
+Name
+138
+
+//score awarded in mp per unit in squad
+//default is 1 per unit
+MultiplayerScorePerEntity
+3
+
+//type of mover(foot, air, vehicle)
+MoverType
+vehicle
+
+//Create an aimer
+UseAimer
+
+//Set up and down limits
+AimerXDegLimits
+60
+350
+
+//main model animation
+Model
+cc_mediumtank
+
+//offset of the child (X, Y, Z)
+ChildOffset
+0.0
+0.0
+-0.74
+
+//offset of the barrel (X, Y, Z)
+BarrelOffset
+0.0
+2.9
+-1.26
+
+//fire offset (X, Y, Z)
+FireOffset
+0.5
+0.0
+6.5
+
+//other stuff
+Radius
+3.5
+Height
+2.5
+PivotHeight
+0.0
+Acceleration
+70.0
+Friction
+65.0
+MaxSpeed
+20.0
+TurnSpeed
+//Radianer/sekund    6.28 = 1 varv/sekund
+1.5
+HeadTurnSpeed
+2.0
+2.0
+SlopeBorder
+1
+ViewRange
+275
+ProjectileProtection
+110
+Power
+3100
+// Detection
+Stealth
+0
+Perception
+0
+//WRECK
+WreckModel
+cc_mediumtank_wreck
+WreckModel
+cc_mediumtank_wreck2
+WreckModel
+cc_mediumtank_wreck3
+WreckModel
+cc_mediumtank_wreck4
+
+
+//engine/ambient sound
+//valid strings are:
+//snd_engine_dropship, snd_engine_hover1-2, snd_engine_vehicle1-2, snd_engine_air1-2,
+//snd_ambient_building1, snd_ambient_building2, snd_ambient_building3, snd_ambient_building4,
+//snd_ambient_building5, snd_ambient_building6, snd_ambient_building7
+AmbientSound
+snd_engine_vehicle1
+
+//sound bank
+//valid banks are:
+//CRAYVEN_ANTIAIRVEHICLE
+//CRAYVEN_ARTILLERYVEHICLE
+//CRAYVEN_ATTACKAERODYNE
+//CRAYVEN_BOMBERAERODYNE
+//CRAYVEN_COMMANDAPC
+//CRAYVEN_ENGINEERTRUCKER
+//CRAYVEN_FIGHTERAERODYNE
+//CRAYVEN_HEAVYTANK
+//CRAYVEN_JAEGER
+//CRAYVEN_LIGHTTANK
+//CRAYVEN_MARINE
+//CRAYVEN_MEDIUMTANK
+//CRAYVEN_ROCKETVEHICLE
+//CRAYVEN_SCOUTAERODYNE
+//CRAYVEN_SCOUTVEHICLE
+//OND_ANTIAIRVEHICLE
+//OND_ARTILLERYVEHICLE
+//OND_ATTACKAERODYNE
+//OND_BEAMPLATFORM
+//OND_COMMANDAPC
+//OND_CRUSADER
+//OND_DRONECARRIER
+//OND_ENGINEERTRUCKER
+//OND_FIGHTERAERODYNE
+//OND_HEAVYHOVERDYNE
+//OND_LIGHTHOVERDYNE
+//OND_MEDIUMHOVERDYNE
+//OND_SCOUTAERODYNE
+//OND_SCOUTVEHICLE
+//OND_TEMPLAR
+SoundBank
+CRAYVEN_MEDIUMTANK
+
+

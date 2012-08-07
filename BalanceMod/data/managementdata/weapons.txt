@@ -4143,9 +4143,6 @@ Type
 SPECIAL WEAPONS
 
 Unit
-cc_lighttank
-
-Unit
 cc_scoutvehicle
 
 GroundHitEffect
@@ -16552,13 +16549,13 @@ LongName
 145
 
 Accuracy
-200
+250
 
 Range
-300.000000
+370.000000
 
 Damage
-400.000000
+460.000000
 
 DamageMultiplier
 2.500000
@@ -16570,7 +16567,7 @@ BurstCount
 1
 
 BurstDelay
-3.000000
+1.000000
 
 BlastRadius
 0.000000
@@ -16594,7 +16591,7 @@ SpawnSound
 Energy1
 
 SpecialBehaviorID
-0
+1
 
 MinFireRange
 0.000000
@@ -16652,7 +16649,7 @@ MoverType
 Bullet
 
 Speed
-300.000000
+500.000000
 
 BEGIN REPTYPE
 RepType
@@ -16690,7 +16687,7 @@ BurstDelay
 0.000000
 
 BlastRadius
-0.000000
+10.000000
 
 GroundAttackFlag
 1
